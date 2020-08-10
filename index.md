@@ -60,7 +60,7 @@ Bachelor of Science, Physics
 * Replaced sites with hydrogen then calculated a stable structure.
 
 ## EXTRA-CIRRUCULAR
-* GSA Python Coding Contest Aug. 2020
-* COMAP Mathematical Contest in Modeling Jan. 2017
+#### GSA Python Coding Contest ##### Aug. 2020
+#### COMAP Mathematical Contest in Modeling ##### Jan. 2017
 
 
