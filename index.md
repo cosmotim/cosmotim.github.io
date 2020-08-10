@@ -4,12 +4,12 @@
 - yw3378@columbia.edu
 
 ## EDUCATION
-#### Columbia university in the city of new york
+#### Columbia University in the City of New York
 ##### NY 
 ##### Aug. 2019 - Dec. 2020(expected)
 Master of Science, Material science and engineering
 
-#### Beijing normal university
+#### Beijing Normal University
 ##### Beijing, CN 
 ##### Sep. 2015 - Jun. 2019
 Bachelor of Science, Physics
