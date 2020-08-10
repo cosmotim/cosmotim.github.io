@@ -64,5 +64,6 @@ Bachelor of Science, Physics
 ##### Aug. 2020
 #### COMAP Mathematical Contest in Modeling 
 ##### Jan. 2017
-
+#### Soccer Team Member in BNU Physics Department
+##### 2015-2019
 
