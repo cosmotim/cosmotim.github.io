@@ -5,7 +5,7 @@
 
 ## EDUCATION
 #### Columbia University in the City of New York
-##### NY 
+##### New York, NY 
 ##### Aug. 2019 - Dec. 2020(expected)
 Master of Science, Material Science and Engineering
 
