@@ -1,4 +1,4 @@
-# YITIAN WANG
+## YITIAN WANG
 - [http://linkedin.com/in/tim-wang-yitian/](http://linkedin.com/in/tim-wang-yitian/)
 - 929-624-1021 
 - yw3378@columbia.edu
@@ -21,7 +21,7 @@ Bachelor of Science, Physics
 ##### NY, US
 * Researched recent improvement on fiber shape battery and super capacitor.
 
-### Advanced separator of lithium-ion battery, 
+### Advanced separator of lithium-ion battery 
 ##### Oct. 2019 - Jan. 2020
 ##### Columbia university New York
 ##### NY, US
@@ -45,13 +45,15 @@ Bachelor of Science, Physics
 
 ## PROJECTS
 
-### Impedence calculator for battery system with user interface Nov.
-#### Columbia university New York, NY
+### Impedence calculator for battery system with user interface 
+##### Nov.2019
+##### Columbia university New York, NY
 * Modified the user interface with GUI package from MatLab.
 * Calculated the impedance in complex representation.
 
-### Olivine defect structure calculation with Quantum ESPRESSO Oct.
-#### Columbia university New York, NY
+### Olivine defect structure calculation with Quantum ESPRESSO 
+##### Oct.2019
+##### Columbia university New York, NY
 * Calculated the olivine structure with MD on an UNIX server.
 * Replaced sites with hydrogen then calculated a stable structure.
 
