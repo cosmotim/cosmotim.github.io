@@ -11,34 +11,34 @@ Master of Science, Material science and engineering
 Bachelor of Science, Physics
 
 ## RESEARCH EXPERIENCE
-1. Review on fiber shape energy storage Aug. 2020 - Now
+- Review on fiber shape energy storage Aug. 2020 - Now
 Columbia university New York, NY
     - Researched recent improvement on fiber shape battery and super capacitor.
 
-2. Advanced separator of lithium-ion battery Oct. 2019 - Jan. 2020
+- Advanced separator of lithium-ion battery Oct. 2019 - Jan. 2020
 Columbia university New York, NY
     - Made g-C3N4 doped battery separator from Melamine and polyvinylidene difluoride.
     - Installed button cells sample with lithium cobalt oxide electrodes.
     - Tested eletrochemical and mechanical property of the separator.
 
-3. Low temperature uniaxial strain device Sep. 2018 - May 2019
+- Low temperature uniaxial strain device Sep. 2018 - May 2019
 Beijing normal university Beijing, CN
     - Modeled three methods in Solidworks for applying uniaxial pressure on thin-film sampled with thermal expansion.
     - Tested the strain induced detwinning effect and processed the data with MatLab.
 
-4. Atomic simulation in a nanotube system Jul. 2017 - Jun. 2018
+- Atomic simulation in a nanotube system Jul. 2017 - Jun. 2018
 Beijing normal university Beijing, CN
     - Calculated the energy gap between iron-carbon layers using DFT method.
     - Simulated the motion of atoms with self made cellular automaton model in MatLab.
 
 ## PROJECTS
 
-1. Impedence calculator for battery system with user interface Nov.
+- Impedence calculator for battery system with user interface Nov.
 Columbia university New York, NY
     - Modified the user interface with GUI package from MatLab.
     - Calculated the impedance in complex representation.
 
-2. Olivine defect structure calculation with Quantum ESPRESSO Oct.
+- Olivine defect structure calculation with Quantum ESPRESSO Oct.
 Columbia university New York, NY
     - Calculated the olivine structure with MD on an UNIX server.
     - Replaced sites with hydrogen then calculated a stable structure.
