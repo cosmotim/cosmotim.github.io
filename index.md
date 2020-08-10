@@ -7,7 +7,7 @@
 #### Columbia University in the City of New York
 ##### NY 
 ##### Aug. 2019 - Dec. 2020(expected)
-Master of Science, Material science and engineering
+Master of Science, Material Science and Engineering
 
 #### Beijing Normal University
 ##### Beijing, CN 
