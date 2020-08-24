@@ -19,7 +19,7 @@ Bachelor of Science, Physics
 ##### Columbia University
 ##### Aug. 2020 - Now
 ##### New York, NY
-* Researched recent improvement on fiber shape battery and super capacitor.
+* Researched recent improvements made on fiber shape battery and super capacitor.
 
 #### Advanced separator of lithium-ion battery 
 ##### Columbia University
