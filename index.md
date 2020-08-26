@@ -1,7 +1,6 @@
 ## YITIAN WANG
 - [http://linkedin.com/in/tim-wang-yitian/](http://linkedin.com/in/tim-wang-yitian/)
-- 929-624-1021 
-- yw3378@columbia.edu
+- yw3378 at columbia dot edu
 
 ## EDUCATION
 #### Columbia University in the City of New York
