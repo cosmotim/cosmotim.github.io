@@ -5,7 +5,7 @@
 ## EDUCATION
 #### Columbia University in the City of New York
 ##### New York, NY 
-##### Aug. 2019 - Dec. 2020(expected)
+##### Aug. 2019 - Feb. 2021
 Master of Science, Material Science and Engineering
 
 #### Beijing Normal University
@@ -14,9 +14,16 @@ Master of Science, Material Science and Engineering
 Bachelor of Science, Physics
 
 ## RESEARCH EXPERIENCE
+
+#### Thermal Conductivity of Solid Electrolyte
+##### University of California, Riverside
+##### Mar. 2021 - Now
+##### Riverside, CA
+
+
 #### Review on fiber shape energy storage
 ##### Columbia University
-##### Aug. 2020 - Now
+##### Aug. 2020 - Feb. 2021
 ##### New York, NY
 * Researched recent improvements made on fiber shape battery and super capacitor.
 
