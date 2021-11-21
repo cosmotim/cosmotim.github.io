@@ -2,6 +2,9 @@
 - [http://linkedin.com/in/tim-wang-yitian/](http://linkedin.com/in/tim-wang-yitian/)
 - yw3378 at columbia dot edu
 
+## SKILL
+##### Battery assembling and cycle test, Floating zone grwoth, Data processing via Python and MatLab.
+
 ## EDUCATION
 #### University of California, Riverside
 ##### Riverside, CA 
@@ -24,7 +27,7 @@ Bachelor of Science, Physics
 ##### University of California, Riverside
 ##### Mar. 2021 - Now
 ##### Riverside, CA
-* Synthesis single crystal LLZTO solid electrolyte.
+* Synthesis single crystal LLZTO solid electrolyte with floating zone method.
 
 #### Review on fiber shape energy storage
 ##### Columbia University
@@ -57,17 +60,17 @@ Bachelor of Science, Physics
 ## PROJECTS
 
 #### Impedence calculator for battery system with user interface 
-##### Columbia University 
+##### Columbia University
 ##### Nov.2019
 ##### New York, NY
 * Modified the user interface with GUI package from MatLab.
-* Calculated the impedance in complex representation.
+* Calculated the impedance and nyquist plot.
 
 #### Olivine defect structure calculation with Quantum ESPRESSO 
 ##### Columbia university
 ##### Oct.2019
 ##### New York, NY
-* Calculated the olivine structure with MD on an UNIX server.
+* Calculated the olivine structure with molecular dynamic method.
 * Replaced sites with hydrogen then calculated a stable structure.
 
 ## EXTRA-CIRRUCULAR
