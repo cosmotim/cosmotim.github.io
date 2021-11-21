@@ -3,7 +3,7 @@
 - yw3378 at columbia dot edu
 
 ## SKILL
-##### Battery assembling and cycle test, Floating zone grwoth, Data processing via Python and MatLab.
+##### Battery assembling and cycle test, Floating zone single crystal growth, Data processing via Python and MatLab.
 
 ## EDUCATION
 #### University of California, Riverside
