@@ -3,6 +3,11 @@
 - yw3378 at columbia dot edu
 
 ## EDUCATION
+#### University of California, Riverside
+##### Riverside, CA 
+##### Apr. 2021 - Mar. 2027(expected)
+Ph.D., Electrical and Computer Engineering
+
 #### Columbia University in the City of New York
 ##### New York, NY 
 ##### Aug. 2019 - Feb. 2021
@@ -19,7 +24,7 @@ Bachelor of Science, Physics
 ##### University of California, Riverside
 ##### Mar. 2021 - Now
 ##### Riverside, CA
-
+* Synthesis single crystal LLZTO solid electrolyte.
 
 #### Review on fiber shape energy storage
 ##### Columbia University
