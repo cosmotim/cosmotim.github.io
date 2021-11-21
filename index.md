@@ -1,6 +1,6 @@
 ## YITIAN WANG
-- [http://linkedin.com/in/tim-wang-yitian/](http://linkedin.com/in/tim-wang-yitian/)
-- yw3378 at columbia dot edu
+##### [http://linkedin.com/in/tim-wang-yitian/](http://linkedin.com/in/tim-wang-yitian/)
+##### yw3378 at columbia dot edu
 
 ## SKILL
 #### Battery assembling and cycling test, Floating zone single crystal growth, Data processing via Python and MatLab.
