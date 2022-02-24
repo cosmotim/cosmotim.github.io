@@ -24,11 +24,12 @@ Bachelor of Science, Physics
 
 ## RESEARCH EXPERIENCE
 
-#### Thermal Conductivity of Solid Electrolyte
+#### Thermal conductivity of solid electrolyte
 ##### University of California, Riverside
 ##### Mar. 2021 - Now
 ##### Riverside, CA
 * Synthesis single crystal LLZTO solid electrolyte with floating zone method.
+* Conduct inelastic neutron scattering experiment in Oak Ridge National Laboratory.
 
 #### Review on fiber shape energy storage
 ##### Columbia University
