@@ -43,7 +43,7 @@ Bachelor of Science, Physics
 ##### New York, NY
 * Made g-C3N4 doped battery separator from Melamine and polyvinylidene difluoride.
 * Installed button cells sample with lithium cobalt oxide electrodes.
-* Tested eletrochemical and mechanical property of the separator.
+* Tested electrochemical and mechanical property of the separator.
 
 #### Low temperature uniaxial strain device 
 ##### Sep. 2018 - May 2019
