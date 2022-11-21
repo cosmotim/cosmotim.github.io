@@ -1,15 +1,15 @@
 ## YITIAN WANG
 ##### [http://linkedin.com/in/tim-wang-yitian/](http://linkedin.com/in/tim-wang-yitian/)
-##### yw3378 at columbia dot edu
+##### ywang1057 at ucr dot edu
 
 ## SKILL
-#### Battery assembling and cycling test, Floating zone single crystal growth, Data processing via Python and MatLab.
+#### Battery assembling and cycling test, Floating zone single crystal growth, Data processing using Python and MatLab.
 
 
 ## EDUCATION
 #### University of California, Riverside
 ##### Riverside, CA 
-##### Apr. 2021 - Mar. 2027(expected)
+##### Apr. 2021 - Mar. 2026(expected)
 Ph.D., Electrical and Computer Engineering
 
 #### Columbia University in the City of New York
@@ -28,7 +28,7 @@ Bachelor of Science, Physics
 ##### University of California, Riverside
 ##### Mar. 2021 - Now
 ##### Riverside, CA
-* Synthesis single crystal LLZTO solid electrolyte with floating zone method.
+* Synthesis single crystal solid electrolyte with floating zone method.
 * Conduct inelastic neutron scattering experiment in Oak Ridge National Laboratory.
 
 #### Review on fiber shape energy storage
