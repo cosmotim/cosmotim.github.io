@@ -3,7 +3,7 @@
 ##### ywang1057 at ucr dot edu
 
 ## SKILL
-#### Battery assembling and cycling test, Floating zone single crystal growth, Data processing using Python and MatLab.
+#### Battery cycling test, Floating zone single crystal growth, Data processing using Python and MatLab.
 
 
 ## EDUCATION
@@ -31,12 +31,6 @@ Bachelor of Science, Physics
 * Synthesis single crystal solid electrolyte with floating zone method.
 * Conduct inelastic neutron scattering experiment in Oak Ridge National Laboratory.
 
-#### Review on fiber shape energy storage
-##### Columbia University
-##### Aug. 2020 - Feb. 2021
-##### New York, NY
-* Researched recent improvements made on fiber shape battery and super capacitor.
-
 #### Advanced separator of lithium-ion battery 
 ##### Columbia University
 ##### Oct. 2019 - Jan. 2020
@@ -52,7 +46,7 @@ Bachelor of Science, Physics
 * Modeled three methods in Solidworks for applying uniaxial pressure on thin-film sampled with thermal expansion.
 * Tested the strain induced detwinning effect and processed the data with MatLab.
 
-#### Atomic simulation in a nanotube system 
+#### Atomic simulation in a carbon nanotube 
 ##### Beijing Normal University 
 ##### Jul. 2017 - Jun. 2018
 ##### Beijing, CN
@@ -65,7 +59,7 @@ Bachelor of Science, Physics
 ##### Columbia University
 ##### Nov.2019
 ##### New York, NY
-* Modified the user interface with GUI package from MatLab.
+* Modified the user interface with GUI from MatLab.
 * Calculated the impedance and nyquist plot.
 
 #### Olivine defect structure calculation with Quantum ESPRESSO 
