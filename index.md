@@ -30,22 +30,22 @@ Bachelor of Science, Physics
 ##### Mar. 2021 - Now
 ##### Riverside, CA
 * Synthesis single crystal solid electrolyte with floating zone method.
-* Conduct inelastic neutron scattering experiment in Oak Ridge National Laboratory.
+* Conduct inelastic neutron scattering experiment.
 
 #### Advanced separator of lithium-ion battery 
 ##### Columbia University
 ##### Oct. 2019 - Jan. 2020
 ##### New York, NY
 * Made g-C3N4 doped battery separator from Melamine and polyvinylidene difluoride.
-* Installed button cells sample with lithium cobalt oxide electrodes.
+* Assemble battery cells with lithium cobalt oxide electrodes.
 * Tested electrochemical and mechanical property of the separator.
 
 #### Low temperature uniaxial strain device 
 ##### Sep. 2018 - May 2019
 ##### Beijing Normal University 
 ##### Beijing, CN
-* Modeled three methods in Solidworks for applying uniaxial pressure on thin-film sampled with thermal expansion.
-* Tested the strain induced detwinning effect and processed the data with MatLab.
+* Modeled parts in Solidworks for applying uniaxial pressure on thin-film sampled with thermal expansion.
+* Tested the strain induced detwinning effect.
 
 #### Atomic simulation in a carbon nanotube 
 ##### Beijing Normal University 
