@@ -70,11 +70,6 @@ Bachelor of Science, Physics
 * Calculated the olivine structure with molecular dynamic method.
 * Replaced sites with hydrogen then calculated a stable structure.
 
-## EXTRA-CIRRUCULAR
-#### GSA Python Coding Contest 
-##### Aug. 2020
-#### COMAP Mathematical Contest in Modeling 
-##### Jan. 2017
-#### Soccer Team Member in BNU Physics Department
-##### 2015-2019
+## Publication
+* Wang, Y. T., & Chen, X. (2022). Single crystal growth and electrochemical studies of garnet-type fast Li-ion conductors. Tungsten, 4(4), 263-268.
 
