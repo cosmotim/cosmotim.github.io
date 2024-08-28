@@ -72,4 +72,7 @@ Bachelor of Science, Physics
 
 ## Publication
 * Wang, Y. T., & Chen, X. (2022). Single crystal growth and electrochemical studies of garnet-type fast Li-ion conductors. Tungsten, 4(4), 263-268.
-
+* Wang, Y., Li, S., Wu, N., Jia, Q., Hoke, T., Shi, L., ... & Chen, X. (2024). Thermal Properties and Lattice Anharmonicity of Li-ion Conducting Garnet Solid Electrolyte Li 6.5 La 3 Zr 1.5 Ta 0.5 O 12. Journal of Materials Chemistry A.
+* Xu, Y., Barani, Z., Xiao, P., Sudhindra, S., Wang, Y., Rezaie, A. A., ... & Chen, X. (2022). Crystal Structure and Thermoelectric Properties of Layered Van der Waals Semimetal ZrTiSe4. Chemistry of Materials, 34(19), 8858-8867.
+* Guo, S., Li, H., Bai, X., Wang, Y., Li, S., Dunin-Borkowski, R. E., ... & Chen, X. (2024). Size-dependent magnon thermal transport in a nanostructured quantum magnet. Cell Reports Physical Science, 5(3).
+* Li, S., Guo, S., Wang, Y., Li, H., Xu, Y., Carta, V., ... & Chen, X. (2024). Enhanced magnon thermal transport in yttrium-doped spin ladder compounds Sr14− xYxCu24O41. Journal of Applied Physics, 136(4).
