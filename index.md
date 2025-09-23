@@ -1,76 +1,83 @@
 ## YITIAN WANG
 ##### [http://linkedin.com/in/tim-wang-yitian/](http://linkedin.com/in/tim-wang-yitian/)
-##### personal website: https://cosmotim.github.io/
-##### ywang1057 at ucr dot edu
 
-## SKILL
-#### Battery cycling test, Floating zone single crystal growth, Python, and MatLab.
+## SKILLS
+
+#### Software / Programming
+* Python (advanced), MATLAB (advanced), SolidWorks (intermediate)
+* GSAS-II (advanced), Mantid (advanced), ImageJ (intermediate)
+
+#### Experimental Techniques
+* FZ Crystal Growth (advanced), PVD (intermediate), CVD (intermediate)
+* SEM (advanced), XRD (advanced), INS (advanced), Raman (intermediate), FTIR (intermediate)
+* PPMS (advanced), DSC (intermediate), TGA (intermediate)
+* Battery Assembly (advanced), Impedance Spectroscopy (intermediate)
 
 
 ## EDUCATION
 #### University of California, Riverside
 ##### Riverside, CA 
-##### Apr. 2021 - Mar. 2026(expected)
-Ph.D., Electrical and Computer Engineering
+##### Mar. 2021 - Dec. 2025 (expected)
+Ph.D. in Electrical and Computer Engineering
 
 #### Columbia University in the City of New York
 ##### New York, NY 
 ##### Aug. 2019 - Feb. 2021
 Master of Science, Material Science and Engineering
 
+#### University of California, Berkeley
+##### Berkeley, CA
+##### Jul. 2017 - Aug. 2017
+Summer Session
+
 #### Beijing Normal University
 ##### Beijing, CN 
 ##### Sep. 2015 - Jun. 2019
 Bachelor of Science, Physics
 
-## RESEARCH EXPERIENCE
-
-#### Thermal conductivity of solid electrolyte
-##### University of California, Riverside
-##### Mar. 2021 - Now
-##### Riverside, CA
-* Synthesis single crystal solid electrolyte with floating zone method.
-* Conduct inelastic neutron scattering experiment.
-
-#### Advanced separator of lithium-ion battery 
-##### Columbia University
-##### Oct. 2019 - Jan. 2020
-##### New York, NY
-* Made g-C3N4 doped battery separator from Melamine and polyvinylidene difluoride.
-* Assemble battery cells with lithium cobalt oxide electrodes.
-* Tested electrochemical and mechanical property of the separator.
-
-#### Low temperature uniaxial strain device 
-##### Sep. 2018 - May 2019
-##### Beijing Normal University 
-##### Beijing, CN
-* Modeled parts in Solidworks for applying uniaxial pressure on thin-film sampled with thermal expansion.
-* Tested the strain induced detwinning effect.
-
-#### Atomic simulation in a carbon nanotube 
-##### Beijing Normal University 
-##### Jul. 2017 - Jun. 2018
-##### Beijing, CN
-* Calculated the energy gap between iron-carbon layers using DFT method.
-* Simulated the motion of atoms with self made cellular automaton model in MatLab.
-
 ## PROJECTS
 
-#### Impedance calculator for battery system with user interface  
+#### Thermal transport and ionic mobility in solid electrolytes
+##### University of California, Riverside
+##### Jun. 2021 - Jun. 2025
+##### Riverside, CA
+* Grew single crystal samples with floating zone method using image furnace.
+* Studied the physical properties in comparison with other solid electrolytes.
+
+#### Inelastic neutron scattering on LLZTO single crystal
+##### Oak Ridge National Laboratory
+##### Jan. 2022 - Jul. 2023
+##### Oak Ridge, TN
+* Conducted inelastic neutron scattering experiments using TAX and ARCS.
+* Processed and analyzed the data with Mantid and Python.
+
+#### Two-channel fitting model for thermal conductivity
+##### University of California, Riverside
+##### Mar. 2022 - Sep. 2023
+##### Riverside, CA
+* Developed a expandable fitting model for thermal conductivity data in MatLab.
+
+#### Advanced separator of lithium-ion battery
 ##### Columbia University
-##### Nov.2019
+##### Oct. 2019 - Jan. 2021
 ##### New York, NY
-* Modified the user interface with GUI from MatLab.
-* Calculated the impedance and nyquist plot.
+* Made composite battery separator with γ-C₃N₄ and PVDF.
+* Assembled full cell batteries and tested electrochemical properties.
 
-#### Olivine defect structure calculation with Quantum ESPRESSO 
-##### Columbia university
-##### Oct.2019
+#### First-principle calculation of olivine structure
+##### Columbia University
+##### Sep. 2019 - Jan. 2020
 ##### New York, NY
-* Calculated the olivine structure with molecular dynamic method.
-* Replaced sites with hydrogen then calculated a stable structure.
+* Calculated the stable olivine structure with hydrogen defects with Quantum ESPRESSO.
 
-## Publication
+#### Low temperature uniaxial strain device
+##### Beijing Normal University
+##### Sep. 2018 - May 2019
+##### Beijing, CN
+* Modeled devices in Solidworks to apply uniaxial pressure on film samples utilizing thermal expansion.
+* Tested the strain induced detwinning effect with PPMS.
+
+## SELECTED PUBLICATIONS
 * **Wang, Y.**, Su, Y., Carrete, J., Zhang, H., Wu, N., Li, Y., Li, H., He, J., Xu, Y., Guo, S., *et al.* (2025). Origin of intrinsically low thermal conductivity in a garnet-type solid electrolyte: Linking lattice and ionic dynamics with thermal transport. PRX Energy. https://doi.org/10.1103/6wj2-kzhh
 * **Wang, Y.**, Li, S., Wu, N., Jia, Q., Hoke, T., Shi, L., Li, Y., & Chen, X. (2024). Thermal properties and lattice anharmonicity of Li-ion conducting garnet solid electrolyte Li₆.₅La₃Zr₁.₅Ta₀.₅O₁₂. Journal of Materials Chemistry A. https://doi.org/10.1039/D4TA02264E
 * Li, S., Guo, S., **Wang, Y.**, Li, H., Xu, Y., Carta, V., Zhou, J., & Chen, X. (2024). Enhanced magnon thermal transport in yttrium-doped spin ladder compounds Sr₁₄₋ₓYₓCu₂₄O₄₁. Journal of Applied Physics. https://doi.org/10.1063/5.0214897
