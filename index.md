@@ -78,9 +78,20 @@ Bachelor of Science, Physics
 * Tested the strain induced detwinning effect with PPMS.
 
 ## SELECTED PUBLICATIONS
-* **Wang, Y.**, Su, Y., Carrete, J., Zhang, H., Wu, N., Li, Y., Li, H., He, J., Xu, Y., Guo, S., *et al.* (2025). Origin of intrinsically low thermal conductivity in a garnet-type solid electrolyte: Linking lattice and ionic dynamics with thermal transport. PRX Energy. https://doi.org/10.1103/6wj2-kzhh
-* **Wang, Y.**, Li, S., Wu, N., Jia, Q., Hoke, T., Shi, L., Li, Y., & Chen, X. (2024). Thermal properties and lattice anharmonicity of Li-ion conducting garnet solid electrolyte Li₆.₅La₃Zr₁.₅Ta₀.₅O₁₂. Journal of Materials Chemistry A. https://doi.org/10.1039/D4TA02264E
-* Li, S., Guo, S., **Wang, Y.**, Li, H., Xu, Y., Carta, V., Zhou, J., & Chen, X. (2024). Enhanced magnon thermal transport in yttrium-doped spin ladder compounds Sr₁₄₋ₓYₓCu₂₄O₄₁. Journal of Applied Physics. https://doi.org/10.1063/5.0214897
-* Guo, S., Li, H., Bai, X., **Wang, Y.**, Li, S., Dunin-Borkowski, R. E., Zhou, J., & Chen, X. (2024). Size-dependent magnon thermal transport in a nanostructured quantum magnet. Cell Reports Physical Science. https://doi.org/10.1016/j.xcrp.2024.101879
-* Xu, Y., Barani, Z., Xiao, P., Sudhindra, S., **Wang, Y.**, Rezaie, A. A., Carta, V., Bozhilov, K. N., Luong, D., Fokwa, B. P. T., *et al.* (2022). Crystal structure and thermoelectric properties of layered van der Waals semimetal ZrTiSe₄. Chemistry of Materials. https://doi.org/10.1021/acs.chemmater.2c02155
-* **Wang, Y.**, & Chen, X. (2022). Single crystal growth and electrochemical studies of garnet-type fast Li-ion conductors. Tungsten. https://doi.org/10.1007/s42864-022-00176-z
+* **Wang, Y.**, Su, Y., Carrete, J., Zhang, H., Wu, N., Li, Y., Li, H., He, J., Xu, Y., Guo, S., Cai, Q., Abernathy, D. L., Williams, T., Kravchyk, K. V., Kovalenko, M. V., Madsen, G. K. H., Li, C., & Chen, X. (2025). Origin of intrinsically low thermal conductivity in a garnet-type solid electrolyte: Linking lattice and ionic dynamics with thermal transport. PRX Energy. 
+https://doi.org/10.1103/6wj2-kzhh
+* **Wang, Y.**, Li, S., Wu, N., Jia, Q., Hoke, T., Shi, L., Li, Y., & Chen, X. (2024). 
+Thermal properties and lattice anharmonicity of Li-ion conducting garnet solid electrolyte Li₆.₅La₃Zr₁.₅Ta₀.₅O₁₂. Journal of Materials Chemistry A. 
+https://doi.org/10.1039/D4TA02264E
+* Li, S., Guo, S., **Wang, Y.**, Li, H., Xu, Y., Carta, V., Zhou, J., & Chen, X. (2024). Enhanced magnon thermal transport in yttrium-doped spin ladder compounds Sr₁₄₋ₓYₓCu₂₄O₄₁. 
+Journal of Applied Physics. 
+https://doi.org/10.1063/5.0214897
+* Guo, S., Li, H., Bai, X., **Wang, Y.**, Li, S., Dunin-Borkowski, R. E., Zhou, J., & Chen, X. (2024). Size-dependent magnon thermal transport in a nanostructured quantum magnet. 
+Cell Reports Physical Science. 
+https://doi.org/10.1016/j.xcrp.2024.101879
+* Xu, Y., Barani, Z., Xiao, P., Sudhindra, S., **Wang, Y.**, Rezaie, A. A., Carta, V., Bozhilov, K. N., Luong, D., Fokwa, B. P. T., Kargar, F., Balandin, A. A., & Chen, X. (2022). Crystal structure and thermoelectric properties of layered van der Waals semimetal ZrTiSe₄. 
+Chemistry of Materials, 34(19), 8858-8867. 
+https://doi.org/10.1021/acs.chemmater.2c02155
+* **Wang, Y.**, & Chen, X. (2022). Single crystal growth and electrochemical studies of garnet-type fast Li-ion conductors. 
+Tungsten, 4(4), 263-268. 
+https://doi.org/10.1007/s42864-022-00176-z
