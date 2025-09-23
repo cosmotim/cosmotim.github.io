@@ -90,8 +90,8 @@ https://doi.org/10.1063/5.0214897
 Cell Reports Physical Science. 
 https://doi.org/10.1016/j.xcrp.2024.101879
 * Xu, Y., Barani, Z., Xiao, P., Sudhindra, S., **Wang, Y.**, Rezaie, A. A., Carta, V., Bozhilov, K. N., Luong, D., Fokwa, B. P. T., Kargar, F., Balandin, A. A., & Chen, X. (2022). Crystal structure and thermoelectric properties of layered van der Waals semimetal ZrTiSe₄. 
-Chemistry of Materials, 34(19), 8858-8867. 
+Chemistry of Materials. 
 https://doi.org/10.1021/acs.chemmater.2c02155
 * **Wang, Y.**, & Chen, X. (2022). Single crystal growth and electrochemical studies of garnet-type fast Li-ion conductors. 
-Tungsten, 4(4), 263-268. 
+Tungsten. 
 https://doi.org/10.1007/s42864-022-00176-z
