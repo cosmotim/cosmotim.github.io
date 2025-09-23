@@ -4,7 +4,7 @@
 ##### ywang1057 at ucr dot edu
 
 ## SKILL
-#### Battery cycling test, Floating zone single crystal growth, Data processing using Python and MatLab.
+#### Battery cycling test, Floating zone single crystal growth, Python, and MatLab.
 
 
 ## EDUCATION
@@ -56,7 +56,7 @@ Bachelor of Science, Physics
 
 ## PROJECTS
 
-#### Impedence calculator for battery system with user interface 
+#### Impedance calculator for battery system with user interface  
 ##### Columbia University
 ##### Nov.2019
 ##### New York, NY
@@ -71,8 +71,9 @@ Bachelor of Science, Physics
 * Replaced sites with hydrogen then calculated a stable structure.
 
 ## Publication
-* Wang, Y. T., & Chen, X. (2022). Single crystal growth and electrochemical studies of garnet-type fast Li-ion conductors. Tungsten, 4(4), 263-268.
-* Wang, Y., Li, S., Wu, N., Jia, Q., Hoke, T., Shi, L., ... & Chen, X. (2024). Thermal Properties and Lattice Anharmonicity of Li-ion Conducting Garnet Solid Electrolyte Li 6.5 La 3 Zr 1.5 Ta 0.5 O 12. Journal of Materials Chemistry A.
-* Xu, Y., Barani, Z., Xiao, P., Sudhindra, S., Wang, Y., Rezaie, A. A., ... & Chen, X. (2022). Crystal Structure and Thermoelectric Properties of Layered Van der Waals Semimetal ZrTiSe4. Chemistry of Materials, 34(19), 8858-8867.
-* Guo, S., Li, H., Bai, X., Wang, Y., Li, S., Dunin-Borkowski, R. E., ... & Chen, X. (2024). Size-dependent magnon thermal transport in a nanostructured quantum magnet. Cell Reports Physical Science, 5(3).
-* Li, S., Guo, S., Wang, Y., Li, H., Xu, Y., Carta, V., ... & Chen, X. (2024). Enhanced magnon thermal transport in yttrium-doped spin ladder compounds Sr14− xYxCu24O41. Journal of Applied Physics, 136(4).
+* **Wang, Y.**, Su, Y., Carrete, J., Zhang, H., Wu, N., Li, Y., Li, H., He, J., Xu, Y., Guo, S., *et al.* (2025). Origin of intrinsically low thermal conductivity in a garnet-type solid electrolyte: Linking lattice and ionic dynamics with thermal transport. PRX Energy. https://doi.org/10.1103/6wj2-kzhh
+* **Wang, Y.**, Li, S., Wu, N., Jia, Q., Hoke, T., Shi, L., Li, Y., & Chen, X. (2024). Thermal properties and lattice anharmonicity of Li-ion conducting garnet solid electrolyte Li₆.₅La₃Zr₁.₅Ta₀.₅O₁₂. Journal of Materials Chemistry A. https://doi.org/10.1039/D4TA02264E
+* Li, S., Guo, S., **Wang, Y.**, Li, H., Xu, Y., Carta, V., Zhou, J., & Chen, X. (2024). Enhanced magnon thermal transport in yttrium-doped spin ladder compounds Sr₁₄₋ₓYₓCu₂₄O₄₁. Journal of Applied Physics. https://doi.org/10.1063/5.0214897
+* Guo, S., Li, H., Bai, X., **Wang, Y.**, Li, S., Dunin-Borkowski, R. E., Zhou, J., & Chen, X. (2024). Size-dependent magnon thermal transport in a nanostructured quantum magnet. Cell Reports Physical Science. https://doi.org/10.1016/j.xcrp.2024.101879
+* Xu, Y., Barani, Z., Xiao, P., Sudhindra, S., **Wang, Y.**, Rezaie, A. A., Carta, V., Bozhilov, K. N., Luong, D., Fokwa, B. P. T., *et al.* (2022). Crystal structure and thermoelectric properties of layered van der Waals semimetal ZrTiSe₄. Chemistry of Materials. https://doi.org/10.1021/acs.chemmater.2c02155
+* **Wang, Y.**, & Chen, X. (2022). Single crystal growth and electrochemical studies of garnet-type fast Li-ion conductors. Tungsten. https://doi.org/10.1007/s42864-022-00176-z
