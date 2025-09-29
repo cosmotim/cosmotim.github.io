@@ -82,6 +82,7 @@ Bachelor of Science, Physics
 * **Glass-like thermal transport in polycrystalline perovskite lithium-ion conductor Li₃/₈Sr₇/₁₆Hf₁/₄Ta₃/₄O₃**  
     *Chemical Communications* (2025)  
     Wang, Y., Jia, Q., Li, S., Shi, L., Li, Y., & Chen, X.
+    https://doi.org/10.1039/D5CC04693A
 
 * **Low thermal conductivity and lattice anharmonicity of NaSICON-type solid electrolyte Na₃Zr₂Si₂PO₁₂**  
     *Tungsten* (2025)  
