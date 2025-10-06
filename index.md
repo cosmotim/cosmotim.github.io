@@ -19,6 +19,7 @@
 ##### Riverside, CA 
 ##### Mar. 2021 - Dec. 2025 (expected)
 Ph.D. in Electrical and Computer Engineering
+##### Award: MRS 2023 Spring Highly Commended Student Talk Award
 
 #### Columbia University in the City of New York
 ##### New York, NY 
@@ -34,6 +35,7 @@ Summer Session
 ##### Beijing, CN 
 ##### Sep. 2015 - Jun. 2019
 Bachelor of Science, Physics
+##### Award: 'Jingshi' Scholarship
 
 ## PROJECTS
 
@@ -117,3 +119,14 @@ Bachelor of Science, Physics
     *Tungsten* (2022)  
     Wang, Y., & Chen, X.  
     https://doi.org/10.1007/s42864-022-00176-z
+
+## Awards and Extra-Curricular
+
+### GSA Python Coding Contest
+- August 2020
+
+### COMAP Mathematical Contest in Modeling
+- January 2017
+
+### BNU Physics Department Soccer Team
+- 2015 - 2019
