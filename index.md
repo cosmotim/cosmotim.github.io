@@ -44,41 +44,38 @@ Bachelor of Science, Physics
 ##### University of California, Riverside
 ##### Jun. 2021 - Jun. 2025
 ##### Riverside, CA
-    * Grew single crystal samples with floating zone method using image furnace.
-    * Studied the physical properties in comparison with other solid electrolytes.
+Grew single crystal samples with floating zone method using image furnace. Studied the physical properties in comparison with other solid electrolytes.
 
 #### Inelastic neutron scattering on LLZTO single crystal
 ##### Oak Ridge National Laboratory
 ##### Jan. 2022 - Jul. 2023
 ##### Oak Ridge, TN
-    * Conducted inelastic neutron scattering experiments using TAX and ARCS.
-    * Processed and analyzed the data with Mantid and Python.
+Conducted inelastic neutron scattering experiments using TAX and ARCS. Processed and analyzed the data with Mantid and Python.
 
 #### Two-channel fitting model for thermal conductivity
 ##### University of California, Riverside
 ##### Mar. 2022 - Sep. 2023
 ##### Riverside, CA
-    * Developed a expandable fitting model for thermal conductivity data in MatLab.
+Developed a expandable fitting model for thermal conductivity data in MatLab.
 
 #### Advanced separator of lithium-ion battery
 ##### Columbia University
 ##### Oct. 2019 - Jan. 2021
 ##### New York, NY
-    * Made composite battery separator with γ-C₃N₄ and PVDF.
-    * Assembled full cell batteries and tested electrochemical properties.
+Made composite battery separator with γ-C₃N₄ and PVDF.
+Assembled full cell batteries and tested electrochemical properties.
 
 #### First-principle calculation of olivine structure
 ##### Columbia University
 ##### Sep. 2019 - Jan. 2020
 ##### New York, NY
-    * Calculated the stable olivine structure with hydrogen defects with Quantum ESPRESSO.
+Calculated the stable olivine structure with hydrogen defects with Quantum ESPRESSO.
 
 #### Low temperature uniaxial strain device
 ##### Beijing Normal University
 ##### Sep. 2018 - May 2019
 ##### Beijing, CN
-    * Modeled devices in Solidworks to apply uniaxial pressure on film samples utilizing thermal expansion.
-    * Tested the strain induced detwinning effect with PPMS.
+Modeled devices in Solidworks to apply uniaxial pressure on film samples utilizing thermal expansion. Tested the strain induced detwinning effect with PPMS.
 
 ## SELECTED PUBLICATIONS
 
