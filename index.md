@@ -1,6 +1,6 @@
 ## YITIAN WANG
 ##### [http://linkedin.com/in/tim-wang-yitian/](http://linkedin.com/in/tim-wang-yitian/)
-##### <a href="cosmotim.github.io/CV_Latex/Resume_of_YitianWang.pdf" target="_blank">PDF</a>
+##### <a href="http://cosmotim.github.io/CV_Latex/Resume_of_YitianWang.pdf" target="_blank">CV.pdf</a>
 ## SKILLS
 
 #### Software / Programming
