@@ -118,7 +118,7 @@ Modeled devices in Solidworks to apply uniaxial pressure on film samples utilizi
     Wang, Y., & Chen, X.  
     https://doi.org/10.1007/s42864-022-00176-z
 
-## Awards and Extra-Curricular
+## Extra-Curricular
 
 #### GSA Python Coding Contest
 - August 2020
