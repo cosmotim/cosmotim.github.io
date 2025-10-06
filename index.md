@@ -121,10 +121,10 @@ Modeled devices in Solidworks to apply uniaxial pressure on film samples utilizi
 ## Awards and Extra-Curricular
 
 #### GSA Python Coding Contest
-    - August 2020
+- August 2020
 
 #### COMAP Mathematical Contest in Modeling
-    - January 2017
+- January 2017
 
 #### BNU Physics Department Soccer Team
-    - 2015 - 2019
+- 2015 - 2019
