@@ -18,24 +18,24 @@
 #### University of California, Riverside
 ##### Riverside, CA 
 ##### Mar. 2021 - Dec. 2025 (expected)
-##### Ph.D. in Electrical and Computer Engineering
 ##### Award: MRS 2023 Spring Highly Commended Student Talk Award
+Ph.D. in Electrical and Computer Engineering
 
 #### Columbia University in the City of New York
 ##### New York, NY 
 ##### Aug. 2019 - Feb. 2021
-##### Master of Science, Material Science and Engineering
+Master of Science, Material Science and Engineering
 
 #### University of California, Berkeley
 ##### Berkeley, CA
 ##### Jul. 2017 - Aug. 2017
-##### Summer Session
+Summer Session
 
 #### Beijing Normal University
 ##### Beijing, CN 
 ##### Sep. 2015 - Jun. 2019
-##### Bachelor of Science, Physics
 ##### Award: 'Jingshi' Scholarship
+Bachelor of Science, Physics
 
 
 ## PROJECTS
