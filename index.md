@@ -59,7 +59,7 @@ Bachelor of Science, Physics
 ##### University of California, Riverside
 ##### Mar. 2022 - Sep. 2023
 ##### Riverside, CA
-* Developed a expandable fitting model for thermal conductivity data in MatLab.
+* Developed an expandable fitting model for thermal conductivity data in MatLab.
 
 #### Advanced separator of lithium-ion battery
 ##### Columbia University
@@ -91,6 +91,7 @@ Bachelor of Science, Physics
 * **Low thermal conductivity and lattice anharmonicity of NaSICON-type solid electrolyte Na₃Zr₂Si₂PO₁₂**  
     *Tungsten* (2025)  
     Wang, Y., Jia, Q., Li, S., Shi, L., Li, Y., & Chen, X.
+    https://doi.org/10.1007/s42864-025-00357-6
 
 * **Origin of intrinsically low thermal conductivity in a garnet-type solid electrolyte: Linking lattice and ionic dynamics with thermal transport**  
     *PRX Energy* (2025)  
