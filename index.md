@@ -1,4 +1,5 @@
 ## YITIAN WANG
+##### ywang1057@ucr.edu
 ##### [http://linkedin.com/in/tim-wang-yitian/](LinkedIn)
 ##### <a href="http://cosmotim.github.io/CV_Latex/Resume_of_YitianWang.pdf" target="_blank">Resume</a>
 ## SKILLS
