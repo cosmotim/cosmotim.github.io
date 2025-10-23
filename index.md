@@ -21,7 +21,7 @@
 <span><strong>Riverside, CA</strong></span>
 <span>Mar. 2021 - Dec. 2025 (expected)</span>
 </div>
-Award: MRS 2023 Spring Highly Commended Student Talk Award
+**Award:** MRS 2023 Spring Highly Commended Student Talk Award  
 Ph.D. in Electrical and Computer Engineering
 
 #### Columbia University in the City of New York
@@ -43,7 +43,7 @@ Summer Session
 <span><strong>Beijing, CN</strong></span>
 <span>Sep. 2015 - Jun. 2019</span>
 </div>
-Award: 'Jingshi' Scholarship
+**Award:** 'Jingshi' Scholarship  
 Bachelor of Science, Physics
 
 
