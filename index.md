@@ -83,45 +83,44 @@ Bachelor of Science, Physics
 
 ## SELECTED PUBLICATIONS
 
-* **Glass-like thermal transport in polycrystalline perovskite lithium-ion conductor Li₃/₈Sr₇/₁₆Hf₁/₄Ta₃/₄O₃**  
+* [https://doi.org/10.1039/D5CC04693A]**Glass-like thermal transport in polycrystalline perovskite lithium-ion conductor Li₃/₈Sr₇/₁₆Hf₁/₄Ta₃/₄O₃**  
     *Chemical Communications* (2025)  
     Wang, Y., Jia, Q., Li, S., Shi, L., Li, Y., & Chen, X.
-    https://doi.org/10.1039/D5CC04693A
 
 * **Low thermal conductivity and lattice anharmonicity of NaSICON-type solid electrolyte Na₃Zr₂Si₂PO₁₂**  
     *Tungsten* (2025)  
     Wang, Y., Jia, Q., Li, S., Shi, L., Li, Y., & Chen, X.
-    https://doi.org/10.1007/s42864-025-00357-6
+    <!-- https://doi.org/10.1007/s42864-025-00357-6 -->
 
-* **Origin of intrinsically low thermal conductivity in a garnet-type solid electrolyte: Linking lattice and ionic dynamics with thermal transport**  
+* [https://doi.org/10.1103/6wj2-kzhh]**Origin of intrinsically low thermal conductivity in a garnet-type solid electrolyte: Linking lattice and ionic dynamics with thermal transport**  
     *PRX Energy* (2025)  
     Wang, Y., Su, Y., Carrete, J., Zhang, H., Wu, N., Li, Y., Li, H., He, J., Xu, Y., Guo, S., Cai, Q., Abernathy, D. L., Williams, T., Kravchyk, K. V., Kovalenko, M. V., Madsen, G. K. H., Li, C., & Chen, X.  
-    https://doi.org/10.1103/6wj2-kzhh
+    
 
-* **Thermal properties and lattice anharmonicity of Li-ion conducting garnet solid electrolyte Li₆.₅La₃Zr₁.₅Ta₀.₅O₁₂**  
+* [https://doi.org/10.1039/D4TA02264E]**Thermal properties and lattice anharmonicity of Li-ion conducting garnet solid electrolyte Li₆.₅La₃Zr₁.₅Ta₀.₅O₁₂**  
     *Journal of Materials Chemistry A* (2024)  
     Wang, Y., Li, S., Wu, N., Jia, Q., Hoke, T., Shi, L., Li, Y., & Chen, X.  
-    https://doi.org/10.1039/D4TA02264E
+    
 
-* **Enhanced magnon thermal transport in yttrium-doped spin ladder compounds Sr₁₄₋ₓYₓCu₂₄O₄₁**  
+* [https://doi.org/10.1063/5.0214897]**Enhanced magnon thermal transport in yttrium-doped spin ladder compounds Sr₁₄₋ₓYₓCu₂₄O₄₁**  
     *Journal of Applied Physics* (2024)  
     Li, S., Guo, S., Wang, Y., Li, H., Xu, Y., Carta, V., Zhou, J., & Chen, X.  
-    https://doi.org/10.1063/5.0214897
+    
 
-* **Size-dependent magnon thermal transport in a nanostructured quantum magnet**  
+* [https://doi.org/10.1016/j.xcrp.2024.101879]**Size-dependent magnon thermal transport in a nanostructured quantum magnet**  
     *Cell Reports Physical Science* (2024)  
     Guo, S., Li, H., Bai, X., Wang, Y., Li, S., Dunin-Borkowski, R. E., Zhou, J., & Chen, X.  
-    https://doi.org/10.1016/j.xcrp.2024.101879
+    
 
-* **Crystal structure and thermoelectric properties of layered van der Waals semimetal ZrTiSe₄**  
+* [https://doi.org/10.1021/acs.chemmater.2c02155]**Crystal structure and thermoelectric properties of layered van der Waals semimetal ZrTiSe₄**  
     *Chemistry of Materials* (2022)  
     Xu, Y., Barani, Z., Xiao, P., Sudhindra, S., Wang, Y., Rezaie, A. A., Carta, V., Bozhilov, K. N., Luong, D., Fokwa, B. P. T., Kargar, F., Balandin, A. A., & Chen, X.  
-    https://doi.org/10.1021/acs.chemmater.2c02155
+    
 
-* **Single crystal growth and electrochemical studies of garnet-type fast Li-ion conductors**  
+* [https://doi.org/10.1007/s42864-022-00176-z]**Single crystal growth and electrochemical studies of garnet-type fast Li-ion conductors**  
     *Tungsten* (2022)  
     Wang, Y., & Chen, X.  
-    https://doi.org/10.1007/s42864-022-00176-z
+    
 
 ## Extra-Curricular
 
