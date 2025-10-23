@@ -1,6 +1,6 @@
 ## YITIAN WANG
 ##### ywang1057@ucr.edu
-##### <a href="http://linkedin.com/in/tim-wang-yitian/">(LinkedIn)</a>
+##### <a href="http://linkedin.com/in/tim-wang-yitian/">LinkedIn</a>
 ##### <a href="http://cosmotim.github.io/CV_Latex/Resume_of_YitianWang.pdf" target="_blank">Resume</a>
 ## SKILLS
 
@@ -42,41 +42,53 @@ Bachelor of Science, Physics
 ## PROJECTS
 
 #### Thermal transport and ionic mobility in solid electrolytes
-##### University of California, Riverside
-##### Jun. 2021 - Jun. 2025
+<div style="display: flex; justify-content: space-between;">
+<span><strong>University of California, Riverside</strong></span>
+<span>Jun. 2021 - Jun. 2025</span>
+</div>
 ##### Riverside, CA
 * Grew single crystal samples with floating zone method using image furnace. 
 * Studied the physical properties in comparison with other solid electrolytes.
 
 #### Inelastic neutron scattering on LLZTO single crystal
-##### Oak Ridge National Laboratory
-##### Jan. 2022 - Jul. 2023
+<div style="display: flex; justify-content: space-between;">
+<span><strong>Oak Ridge National Laboratory</strong></span>
+<span>Jan. 2022 - Jul. 2023</span>
+</div>
 ##### Oak Ridge, TN
 * Conducted inelastic neutron scattering experiments using TAX and ARCS. 
 * Processed and analyzed the data with Mantid and Python.
 
 #### Two-channel fitting model for thermal conductivity
-##### University of California, Riverside
-##### Mar. 2022 - Sep. 2023
+<div style="display: flex; justify-content: space-between;">
+<span><strong>University of California, Riverside</strong></span>
+<span>Mar. 2022 - Sep. 2023</span>
+</div>
 ##### Riverside, CA
 * Developed an expandable fitting model for thermal conductivity data in MatLab.
 
 #### Advanced separator of lithium-ion battery
-##### Columbia University
-##### Oct. 2019 - Jan. 2021
+<div style="display: flex; justify-content: space-between;">
+<span><strong>Columbia University</strong></span>
+<span>Oct. 2019 - Jan. 2021</span>
+</div>
 ##### New York, NY
 * Made composite battery separator with γ-C₃N₄ and PVDF.
 * Assembled full cell batteries and tested electrochemical properties.
 
 #### First-principle calculation of olivine structure
-##### Columbia University
-##### Sep. 2019 - Jan. 2020
+<div style="display: flex; justify-content: space-between;">
+<span><strong>Columbia University</strong></span>
+<span>Sep. 2019 - Jan. 2020</span>
+</div>
 ##### New York, NY
 * Calculated the stable olivine structure with hydrogen defects with Quantum ESPRESSO.
 
 #### Low temperature uniaxial strain device
-##### Beijing Normal University
-##### Sep. 2018 - May 2019
+<div style="display: flex; justify-content: space-between;">
+<span><strong>Beijing Normal University</strong></span>
+<span>Sep. 2018 - May 2019</span>
+</div>
 ##### Beijing, CN
 * Modeled devices in Solidworks to apply uniaxial pressure on film samples utilizing thermal expansion. 
 * Tested the strain induced detwinning effect with PPMS.
