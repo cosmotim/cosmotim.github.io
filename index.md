@@ -108,7 +108,7 @@ Bachelor of Science, Physics
     Wang, Y., Jia, Q., Li, S., Shi, L., Li, Y., & Chen, X.
 
 * <a href="https://doi.org/10.1007/s42864-025-00357-6" target="_blank">**Low thermal conductivity and lattice anharmonicity of NaSICON-type solid electrolyte Na₃Zr₂Si₂PO₁₂**</a>  
-    *Tungsten* (2025) (Accepted)  
+    *Tungsten* (2025)  
     Wang, Y., Jia, Q., Li, S., Shi, L., Li, Y., & Chen, X.
 
 * <a href="https://doi.org/10.1103/6wj2-kzhh" target="_blank">**Origin of intrinsically low thermal conductivity in a garnet-type solid electrolyte: Linking lattice and ionic dynamics with thermal transport**</a>  
