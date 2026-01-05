@@ -1,3 +1,8 @@
+<style>
+  a { color: #1a0dab; }
+  a:visited { color: #551a8b; }
+</style>
+
 ## YITIAN WANG
 ##### ywang1057@ucr.edu
 ##### <a href="http://linkedin.com/in/tim-wang-yitian/">LinkedIn</a>
@@ -19,7 +24,7 @@
 #### University of California, Riverside
 <div style="display: flex; justify-content: space-between;">
 <span><strong>Riverside, CA</strong></span>
-<span>Mar. 2021 - Dec. 2025 (expected)</span>
+<span>Mar. 2021 - Jun. 2026 (expected)</span>
 </div>
 **Award:** MRS 2023 Spring Highly Commended Student Talk Award  
 Ph.D. in Electrical and Computer Engineering
@@ -56,7 +61,7 @@ Bachelor of Science, Physics
 </div>
 ##### Riverside, CA
 * Grew single crystal samples with floating zone method using image furnace. 
-* Studied the physical properties in comparison with other solid electrolytes.
+* Studied the physical properties of various solid electrolytes.
 
 ### Inelastic neutron scattering on LLZTO single crystal
 <div style="display: flex; justify-content: space-between;">
