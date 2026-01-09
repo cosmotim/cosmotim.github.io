@@ -10,14 +10,14 @@
 ## SKILLS
 
 #### Software / Programming
-* Python (advanced), MATLAB (advanced), SolidWorks (intermediate)
+* Python (advanced), MatLab (advanced), SolidWorks (intermediate)
 * GSAS-II (advanced), Mantid (advanced), ImageJ (intermediate)
 
 #### Experimental Techniques
 * FZ Crystal Growth (advanced), PVD (intermediate), CVD (intermediate)
 * SEM (advanced), XRD (advanced), INS (advanced), Raman (intermediate), FTIR (intermediate)
 * PPMS (advanced), DSC (intermediate), TGA (intermediate)
-* Battery Assembly (advanced), Impedance Spectroscopy (intermediate)
+* Prototype Battery Assembly (advanced), Electrochemical Impedance Spectroscopy (intermediate)
 
 
 ## EDUCATION
@@ -26,7 +26,8 @@
 <span><strong>Riverside, CA</strong></span>
 <span>Mar. 2021 - Jun. 2026 (expected)</span>
 </div>
-**Award:** MRS 2023 Spring Highly Commended Student Talk Award  
+**Awards:** MRS 2023 Spring Highly Commended Student Talk Award  
+Dissertation Completion Fellowship Award  
 Ph.D. in Electrical and Computer Engineering
 
 #### Columbia University in the City of New York
@@ -60,8 +61,8 @@ Bachelor of Science, Physics
 <span>Jun. 2021 - Jun. 2025</span>
 </div>
 ##### Riverside, CA
-* Grew single crystal samples with floating zone method using image furnace. 
-* Studied the physical properties of various solid electrolytes.
+* Grew samples with floating zone method using an image furnace.
+* Studied the transport properties of complex oxide ionic conductors.
 
 ### Inelastic neutron scattering on LLZTO single crystal
 <div style="display: flex; justify-content: space-between;">
@@ -69,7 +70,7 @@ Bachelor of Science, Physics
 <span>Jan. 2022 - Jul. 2023</span>
 </div>
 ##### Oak Ridge, TN
-* Conducted inelastic neutron scattering experiments using TAX and ARCS. 
+* Conducted neutron scattering experiments using TAX and ARCS.
 * Processed and analyzed the data with Mantid and Python.
 
 ### Two-channel fitting model for thermal conductivity
@@ -78,7 +79,7 @@ Bachelor of Science, Physics
 <span>Mar. 2022 - Sep. 2023</span>
 </div>
 ##### Riverside, CA
-* Developed an expandable fitting model for thermal conductivity data in MatLab.
+* Developed an expandable fitting model using MatLab.
 
 ### Advanced separator of lithium-ion battery
 <div style="display: flex; justify-content: space-between;">
@@ -103,7 +104,7 @@ Bachelor of Science, Physics
 <span>Sep. 2018 - May 2019</span>
 </div>
 ##### Beijing, CN
-* Modeled devices in Solidworks to apply uniaxial pressure on film samples utilizing thermal expansion. 
+* Modeled devices in SolidWorks to apply pressure utilizing thermal expansion.
 * Tested the strain induced detwinning effect with PPMS.
 
 ## SELECTED PUBLICATIONS
