@@ -14,18 +14,30 @@
 %----------------------------------------------------------------------------------------
 
 \documentclass{resume} % Use the custom resume.cls style
-\usepackage{hyperref}
+\usepackage[colorlinks=true,
+            linkcolor=red,
+            urlcolor=blue,
+            citecolor=gray]{hyperref}
 
-\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\usepackage[left=0.75in,top=0.75in,right=0.75in,bottom=0.75in]{geometry} % Document margins
 \newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
 \name{Yitian Wang} % Your name
 %\address{\href{http://linkedin.com/in/tim-wang-yitian/}{http://linkedin.com/in/tim-wang-yitian/}} % Your address
 %\address{123 Pleasant Lane \\ City, State 12345} % Your secondary addess (optional)
-%\address{ywang1057@ucr.edu \\ 929-624-1021 \\ http://linkedin.com/in/tim-wang-yitian} % Your phone number and email
-\address{ywang1057@ucr.edu \\ \href{http://cosmotim.github.io}{http://cosmotim.github.io} \\ \href{http://linkedin.com/in/tim-wang-yitian/}{http://linkedin.com/in/tim-wang-yitian/}} % Your phone number and email
-%\address{http://cosmotim.github.io} % Your phone number and email
+\address{\href{mailto:ywang1057@ucr.edu}{ywang1057@ucr.edu} \\ 929-624-1021 \\ \href{http://cosmotim.github.io}{Portfolio Website}} % Your phone number and email
 \begin{document}
+
+%----------------------------------------------------------------------------------------
+%	SUMMARY SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{SUMMARY}
+Ph.D. scholar in Electrical Engineering specializing in thermal transport and lattice dynamics in functional oxides and solid-state ionic conductors.
+Experienced in crystal and thin-film growth, vacuum deposition, characterization, and data-driven modeling using Python and MatLab.
+Published 5 first-author works in leading journals and skilled at collaborating with national labs and cross-disciplinary device and materials teams.
+Extensive teaching background, including tutoring since undergraduate years and three terms of teaching assistant experience during Ph.D. studies.
+\end{rSection}
 
 %----------------------------------------------------------------------------------------
 %	EDUCATION SECTION
@@ -41,7 +53,7 @@
 \\ Master of Science, Material Science and Engineering
 \\
 \\{\bf University of California, Berkeley, CA}\hfill{\em Jul. 2017 - Aug. 2017}
-\\ Summer Session
+\\ Summer Session, Physics
 \\
 \\{\bf Beijing Normal University, CN} \hfill {\em Sep. 2015 - Jun. 2019} 
 \\ Bachelor of Science, Physics
@@ -58,181 +70,111 @@
     \item GSAS-II (advanced), Mantid (advanced), ImageJ (intermediate)
 \end{itemize}
 
-	\textbf{Experimental Techniques}
+    \textbf{Experimental Techniques}
 \begin{itemize}
-    \item FZ Crystal Growth (advanced), PVD (intermediate), CVD (intermediate)
-    \item SEM (advanced), XRD (advanced), INS (advanced), Raman (intermediate), FTIR (intermediate)
-    \item PPMS (advanced), DSC (intermediate), TGA (intermediate)
-    \item Prototype Battery Assembly (advanced), Electrochemical Impedance Spectroscopy (intermediate)
+            \item Floating-Zone Crystal Growth (advanced), Physical Vapor Deposition (intermediate), Chemical Vapor Deposition (intermediate)
+            \item Scanning Electron Microscopy (advanced), X-Ray Diffraction (advanced), Inelastic Neutron Scattering (advanced), Raman Spectroscopy (intermediate), Fourier-Transform Infrared Spectroscopy (intermediate)
+            \item Physical Property Measurement System Measurements (advanced), Differential Scanning Calorimetry (intermediate), Thermogravimetric Analysis (intermediate)
+            \item Prototype Battery Assembly (advanced), Electrochemical Impedance Spectroscopy (intermediate)
 \end{itemize}
 
 \end{rSection}
 
 %--------------------------------------------------------------------------------
-%    Projects And Seminars
+%    Research Experience
 %-----------------------------------------------------------------------------------------------
-% \begin{rSection}{RESEARCH EXPERIENCE}
+\clearpage
+\begin{rSection}{RESEARCH EXPERIENCE}
 
-% \begin{rSubsection}
-% {Thermal transport in solid-state battery}{\em Mar. 2021 - Now}
-% {University of California}{Riverside, CA}
-% \item Studied the thermal transport in various types of solid-electrolyte and electrode materials.
-% \end{rSubsection}
-
-% % \begin{rSubsection}
-% % {Low temperature uniaxial strain device}{\em Sep. 2018 - May 2019}
-% % {Beijing Normal University}{Beijing, CN}
-% % \item Modeled three methods in Solidworks for applying uniaxial pressure on thin-film sampled with thermal expansion.
-% % \item Tested the strain induced detwinning effect and processed the data with MatLab.
-% % \end{rSubsection}
-
-% % \begin{rSubsection}
-% % {Atomic simulation in a nanotube system}{\em Jul. 2017 - Jun. 2018}
-% % {Beijing Normal University}{Beijing, CN}
-% % \item Calculated the energy gap between iron-carbon layers using DFT method.
-% % \item Simulated the motion of atoms with self made cellular automaton model in MatLab.
-% % \end{rSubsection}
-% \end{rSection}
-
-\begin{rSection}{PROJECTS}
-    
 \begin{rSubsection}
-    {Thermal transport and ionic mobility in solid electrolytes}{\em Jun. 2021 - Jun. 2025}
-    {University of California}{Riverside, CA}
-\item Grew samples with floating zone method using an image furnace.
-\item Studied the transport properties of complex oxide ionic conductors.
+{Graduate Research Assistant}{\em Jun. 2021 - Jun. 2025}
+{University of California}{Riverside, CA}
+\item Studied thermal transport and ionic mobility in solid-state electrolytes and complex oxides.
+\item Grew single-crystal oxide Li-ion conductors using a floating-zone furnace.
+\item Characterized structure and transport with XRD, transport measurements, and electrochemical testing.
+\item Built a two-channel thermal-conductivity fitting model in MatLab.
 \end{rSubsection}
 
 \begin{rSubsection}
-    {Inelastic neutron scattering on LLZTO single crystal}{\em Jan. 2022 - Jul. 2023}
-    {Oak Ridge National Laboratory}{Oak Ridge, TN}
-    \item Conducted neutron scattering experiments using TAX and ARCS.
-    \item Processed and analyzed the data with Mantid and Python.
+{Experiment Lead}{\em Jan. 2022 - Jul. 2023}
+{Oak Ridge National Laboratory}{Oak Ridge, TN}
+\item Led inelastic neutron-scattering studies on LLZTO using TAX at HFIR and ARCS at SNS.
+\item Measured phonon spectra of single-crystal solid electrolytes.
+\item Processed scattering datasets and automated analysis workflows in Mantid and Python.
 \end{rSubsection}
 
 \begin{rSubsection}
-    {Two-channel fitting model for thermal conductivity}{\em Mar. 2022 - Sep. 2023}
-    {University of California}{Riverside, CA}
-\item Developed an expandable fitting model using MatLab.
-\end{rSubsection}
-
-\begin{rSubsection}
-{Advanced separator of lithium-ion battery}{\em Oct. 2019 - Jan. 2021}
+{Student Researcher}{\em Sep. 2019 - Jan. 2021}
 {Columbia University}{New York, NY}
- \item Made a series of composite battery separators with $\gamma-C_3 N_4$ and PVDF.
- \item Assembled full cell batteries and tested their electrochemical properties.
+\item Developed composite lithium-ion battery separators with $\gamma-C_3 N_4$ and PVDF using solution processing.
+\item Fabricated prototype coin cells and measured impedance and galvanostatic cycling.
+\item Ran first-principles simulations in Quantum ESPRESSO on defect-engineered olivine structures.
 \end{rSubsection}
 
 \begin{rSubsection}
-{First-principles calculation of olivine structure }{\em Sep. 2019 - Jan. 2020}
-{Columbia University}{New York, NY}
-\item Used Quantum ESPRESSO to calculate the structure with hydrogen defects.
-\end{rSubsection}
-
-
-\begin{rSubsection}
-{Low temperature uniaxial strain device}{\em Sep. 2018 - May 2019}
+{Student Researcher}{\em Sep. 2018 - May 2019}
 {Beijing Normal University}{Beijing, CN}
-\item Modeled devices in SolidWorks to apply pressure utilizing thermal expansion.
-\item Tested the strain induced detwinning effect with PPMS.
+\item Designed low-temperature uniaxial-strain devices in SolidWorks.
+\item Characterized detwinning effects in BaFe$_2$As$_2$ with PPMS.
 \end{rSubsection}
 
 \end{rSection}
-
-
-%----------------------------------------------------------------------------------------
-%	TECHNICAL STRENGTHS SECTION
-%----------------------------------------------------------------------------------------
-
-
-
-
-%----------------------------------------------------------------------------------------
-%	WORK EXPERIENCE SECTION
-%----------------------------------------------------------------------------------------
-
-
-
-
-%	EXAMPLE SECTION
-%----------------------------------------------------------------------------------------
-
 
 %	Publications
 %----------------------------------------------------------------------------------------
 \begin{rSection}{SELECTED PUBLICATIONS}
 % Publications formatted with bold title and details as subsection
 \begin{itemize}
-\item \href{https://doi.org/10.1007/s42864-025-00357-6}{Low Thermal Conductivity and Lattice Anharmonicity of NaSICON-type Solid Electrolyte \\ Na$_3$Zr$_2$Si$_2$PO$_{12}$}
+\item Glass-like thermal transport in polycrystalline perovskite lithium-ion conductor \\ Li$_{3/8}$Sr$_{7/16}$Hf$_{1/4}$Ta$_{3/4}$O$_3$
     \begin{itemize}
-        \item \textit{Tungsten}, 2025 (Accepted)
+        \item \textit{Chemical Communications}, 2025 \href{https://doi.org/10.1039/D5CC04693A}{[Link]}
         \item \textbf{Y. Wang}, Q. Jia, S. Li, L. Shi, Y. Li, X. Chen
     \end{itemize}
 
-\item \href{https://doi.org/10.1039/D5CC04693A}{Glass-like thermal transport in polycrystalline perovskite lithium-ion conductor \\ Li$_{3/8}$Sr$_{7/16}$Hf$_{1/4}$Ta$_{3/4}$O$_3$}
+\item Low Thermal Conductivity and Lattice Anharmonicity of NaSICON-type Solid Electrolyte \\ Na$_3$Zr$_2$Si$_2$PO$_{12}$
     \begin{itemize}
-        \item \textit{Chemical Communications}, 2025
+        \item \textit{Tungsten}, 2025 \href{https://doi.org/10.1007/s42864-025-00357-6}{[Link]}
         \item \textbf{Y. Wang}, Q. Jia, S. Li, L. Shi, Y. Li, X. Chen
     \end{itemize}
 
-\item \href{https://doi.org/10.1103/6wj2-kzhh}{Origin of intrinsically low thermal conductivity in a garnet-type solid electrolyte: Linking lattice and ionic dynamics with thermal transport}
+\item Origin of intrinsically low thermal conductivity in a garnet-type solid electrolyte: Linking lattice and ionic dynamics with thermal transport
     \begin{itemize}
-        \item \textit{PRX Energy}, 2025
+        \item \textit{PRX Energy}, 2025 \href{https://doi.org/10.1103/6wj2-kzhh}{[Link]}
         \item \textbf{Y. Wang}, Y. Su, J. Carrete, H. Zhang, N. Wu, Y. Li, H. Li, J. He, Y. Xu, S. Guo, Q. Cai, D. L. Abernathy, T. Williams, K. V. Kravchyk, M. V. Kovalenko, G. K. H. Madsen, C. Li, X. Chen
     \end{itemize}
 
-\item \href{https://doi.org/10.1039/D4TA02264E}{Thermal properties and lattice anharmonicity of Li-ion conducting garnet solid electrolyte \\ Li$_{6.5}$La$_3$Zr$_{1.5}$Ta$_{0.5}$O$_{12}$}
+\item Thermal properties and lattice anharmonicity of Li-ion conducting garnet solid electrolyte \\ Li$_{6.5}$La$_3$Zr$_{1.5}$Ta$_{0.5}$O$_{12}$
     \begin{itemize}
-        \item \textit{Journal of Materials Chemistry A}, 2024
+        \item \textit{Journal of Materials Chemistry A}, 2024 \href{https://doi.org/10.1039/D4TA02264E}{[Link]}
         \item \textbf{Y. Wang}, S. Li, N. Wu, Q. Jia, T. Hoke, L. Shi, Y. Li, X. Chen
     \end{itemize}
 
-\item \href{https://doi.org/10.1063/5.0214897}{Enhanced magnon thermal transport in yttrium-doped spin ladder compounds Sr$_{14-x}$Y$_x$Cu$_{24}$O$_{41}$}
+\item Enhanced magnon thermal transport in yttrium-doped spin ladder compounds Sr$_{14-x}$Y$_x$Cu$_{24}$O$_{41}$
     \begin{itemize}
-        \item \textit{Journal of Applied Physics}, 2024
+        \item \textit{Journal of Applied Physics}, 2024 \href{https://doi.org/10.1063/5.0214897}{[Link]}
         \item S. Li, S. Guo, \textbf{Y. Wang}, H. Li, Y. Xu, V. Carta, J. Zhou, X. Chen
     \end{itemize}
 
-\item \href{https://doi.org/10.1016/j.xcrp.2024.101879}{Size-dependent magnon thermal transport in a nanostructured quantum magnet}
+\item Size-dependent magnon thermal transport in a nanostructured quantum magnet
     \begin{itemize}
-        \item \textit{Cell Reports Physical Science}, 2024
+        \item \textit{Cell Reports Physical Science}, 2024 \href{https://doi.org/10.1016/j.xcrp.2024.101879}{[Link]}
         \item S. Guo, H. Li, X. Bai, \textbf{Y. Wang}, S. Li, R. E. Dunin-Borkowski, J. Zhou, X. Chen
     \end{itemize}
 
-\item \href{https://doi.org/10.1021/acs.chemmater.2c02155}{Crystal structure and thermoelectric properties of layered van der Waals semimetal ZrTiSe$_4$}
+\item Crystal structure and thermoelectric properties of layered van der Waals semimetal ZrTiSe$_4$
     \begin{itemize}
-        \item \textit{Chemistry of Materials}, 2022
+        \item \textit{Chemistry of Materials}, 2022 \href{https://doi.org/10.1021/acs.chemmater.2c02155}{[Link]}
         \item Y. Xu, Z. Barani, P. Xiao, S. Sudhindra, \textbf{Y. Wang}, A. A. Rezaie, V. Carta, K. N. Bozhilov, D. Luong, B. P. T. Fokwa, F. Kargar, A. A. Balandin, X. Chen
     \end{itemize}
 
-\item \href{https://doi.org/10.1007/s42864-022-00176-z}{Single crystal growth and electrochemical studies of garnet-type fast Li-ion conductors}
+\item Single crystal growth and electrochemical studies of garnet-type fast Li-ion conductors
     \begin{itemize}
-        \item \textit{Tungsten}, 2022
+        \item \textit{Tungsten}, 2022 \href{https://doi.org/10.1007/s42864-022-00176-z}{[Link]}
         \item \textbf{Y. Wang}, X. Chen
     \end{itemize}
 \end{itemize}
 
-
 \end{rSection}
-
-
-% ----------------------------------------------------------------------------------------
-% Extra Curricular
-% ----------------------------------------------------------------------------------------
-
-\begin{rSection}{EXTRA-CURRICULAR}
-    
-    \begin{qSubsection}
-        {GSA Python Coding Contest}{Aug. 2020}
-    \end{qSubsection}
-
-    \begin{qSubsection}
-        {COMAP Mathematical Contest in Modeling}{Jan. 2017}
-    \end{qSubsection}
-
-    \begin{qSubsection}
-        {BNU Physics Department Soccer Team}{2015 - 2019}
-    \end{qSubsection}
-\end{rSection}
+%----------------------------------------------------------------------------------------
 
  \end{document}
