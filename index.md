@@ -14,7 +14,7 @@ a:visited { color: #551a8b; }
 Ph.D. scholar in Electrical Engineering specializing in thermal transport and lattice dynamics in functional oxides and solid-state ionic conductors.
 Experienced in crystal and thin-film growth, vacuum deposition, material characterization, and data-driven modeling using Python and MATLAB.
 Published 5 first-author works in leading journals and skilled at collaborating with national labs and cross-disciplinary device and materials teams.
-Extensive teaching background, including tutoring since undergraduate years and teaching assistant experience during Ph.D. studies.
+Additional teaching assistant experience during Ph.D. studies.
 
 ---
 
@@ -27,6 +27,7 @@ Extensive teaching background, including tutoring since undergraduate years and 
 </div>
 
 Ph.D. in Electrical and Computer Engineering
+Awards: Dissertation Completion Fellowship Award; MRS 2023 Spring Highly Commended Student Talk Award
 
 #### Columbia University in the City of New York
 <div style="display: flex; justify-content: space-between;">
@@ -51,14 +52,7 @@ Summer Session, Physics
 </div>
 
 Bachelor of Science, Physics
-
----
-
-## AWARDS
-
-* Dissertation Completion Fellowship Award (2025), UCR
-* Materials Research Society 2023 Spring Highly Commended Student Talk Award
-* 'Jingshi' Scholarship (2016 - 2018), Beijing Normal University
+Awards: 'Jingshi' Scholarship (2016 - 2018)
 
 ---
 
@@ -86,9 +80,8 @@ Bachelor of Science, Physics
 * Electrochemical Impedance Spectroscopy (EIS), Galvanostatic Cycling
 * Temperature-dependent Transport Testing, Thermal Abuse Testing
 
-#### Methods
-* Design of Experiments (DOE)
-* Uniaxial Strain Tuning
+#### Methods & Other
+* Design of Experiments (DOE), Uniaxial Strain Tuning
 
 ---
 
@@ -101,10 +94,11 @@ Bachelor of Science, Physics
 </div>
 ##### Riverside, CA
 
-* Studied thermal transport and ionic mobility in solid-state electrolytes and complex oxides.
-* Grew single-crystal oxide Li-ion conductors using a floating-zone furnace.
-* Characterized structure and transport with XRD, transport measurements, and electrochemical testing.
-* Built a two-channel thermal-conductivity fitting model in MATLAB.
+* Pioneered lattice-dynamics studies on Li-ion solid-state electrolytes, extending work previously limited to Cu- and Ag-ion systems.
+* Published 5 first-author papers in journals including *PRX Energy* and *J. Mater. Chem. A*.
+* Built a floating-zone crystal growth workflow from scratch, producing centimeter-scale LLZTO single crystals that enabled phonon-resolved neutron scattering measurements previously infeasible on polycrystalline samples.
+* Identified diffuson-mediated thermal transport in Li-ion conductors, providing the first verification of this mechanism in Li-ion solid-state electrolytes.
+* Developed a two-channel (phonon + diffuson) thermal-conductivity model in MATLAB that explained anomalous temperature dependence in Li-ion conductors where the traditional Debye model failed.
 
 ### Experiment Lead
 <div style="display: flex; justify-content: space-between;">
@@ -113,9 +107,10 @@ Bachelor of Science, Physics
 </div>
 ##### Oak Ridge, TN
 
-* Led inelastic neutron-scattering studies on LLZTO using TAX at HFIR and ARCS at SNS.
-* Measured phonon spectra of single-crystal solid electrolytes.
-* Processed scattering datasets and automated analysis workflows in Mantid and Python.
+* Authored two successful beam time proposals and led inelastic neutron-scattering experiments on LLZTO single crystals using TAX (HFIR) and ARCS (SNS) at Oak Ridge National Laboratory (ORNL).
+* Resolved the full phonon dispersion of a garnet solid electrolyte for the first time, providing experimental benchmarks for ab initio lattice-dynamics calculations.
+* Built automated data-reduction pipelines in Mantid and Python, significantly reducing manual analysis time.
+* Managed on-site experimental decisions and coordinated across ~7 research groups spanning UCR, UT Austin, ORNL, ETH Zürich, and TU Wien.
 
 ### Student Researcher
 <div style="display: flex; justify-content: space-between;">
@@ -124,9 +119,9 @@ Bachelor of Science, Physics
 </div>
 ##### New York, NY
 
-* Developed composite lithium-ion battery separators with γ-C₃N₄ and PVDF using solution processing.
-* Fabricated prototype coin cells and measured impedance and galvanostatic cycling.
-* Ran first-principles simulations in Quantum ESPRESSO on defect-engineered olivine structures.
+* Engineered composite Li-ion battery separators (γ-C₃N₄/PVDF) via solution processing, targeting improved electrochemical reaction kinetics.
+* Assembled and tested CR2032 full cells over 100+ galvanostatic cycles, characterizing cycling performance and interfacial stability via EIS.
+* Applied first-principles DFT (Quantum ESPRESSO) to model defect stability in olivine cathode structures, complementing experimental work with computational materials design.
 
 ### Student Researcher
 <div style="display: flex; justify-content: space-between;">
@@ -135,8 +130,8 @@ Bachelor of Science, Physics
 </div>
 ##### Beijing, CN
 
-* Designed low-temperature uniaxial-strain devices in SolidWorks.
-* Characterized detwinning effects in BaFe₂As₂ with PPMS.
+* Designed a uniaxial-strain apparatus in SolidWorks exploiting differential thermal contraction for controlled detwinning of iron-based superconductors below 140 K.
+* Built a Monte Carlo simulation in MATLAB to model atomic movement of metal atoms inside multi-wall carbon nanotubes, reproducing experimental observations.
 
 ---
 
