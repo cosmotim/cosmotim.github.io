@@ -138,7 +138,7 @@ Awards: 'Jingshi' Scholarship (2016 - 2018)
 ## SELECTED PUBLICATIONS
 
 * <a href="https://doi.org/10.1039/D5CC04693A" target="_blank">**Glass-like thermal transport in polycrystalline perovskite lithium-ion conductor Li₃/₈Sr₇/₁₆Hf₁/₄Ta₃/₄O₃**</a>
-  *Chemical Communications* (2025)
+  *Chemical Communications* (2025) <a href="https://doi.org/10.1039/D5CC90366A" target="_blank">[Front Cover]</a>
   **Wang, Y.**, Jia, Q., Li, S., Shi, L., Li, Y., & Chen, X.
 
 * <a href="https://doi.org/10.1007/s42864-025-00357-6" target="_blank">**Low Thermal Conductivity and Lattice Anharmonicity of NaSICON-type Solid Electrolyte Na₃Zr₂Si₂PO₁₂**</a>
