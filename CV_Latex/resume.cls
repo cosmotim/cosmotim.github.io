@@ -20,10 +20,13 @@
 
 \ProvidesClass{resume}[2010/07/10 v0.9 Resume class]
 
-\LoadClass[11pt,letterpaper]{article} % Font size and paper type
+\LoadClass[10pt,letterpaper]{article} % Font size and paper type
 
-\usepackage[parfill]{parskip} % Remove paragraph indentation
+\usepackage[parfill]{parskip}
+\usepackage{mathptmx} % Times New Roman font % Remove paragraph indentation
 \usepackage{array} % Required for boldface (\bf and \bfseries) tabular columns
+\usepackage{xcolor} % Required for colored section lines
+\definecolor{sectionblue}{RGB}{0, 90, 130} % Blue/teal color for section rules
 \usepackage{ifthen} % Required for ifthenelse statements
 
 \pagestyle{empty} % Suppress page numbers
@@ -35,7 +38,7 @@
 \def \name#1{\def\@name{#1}} % Defines the \name command to set name
 \def \@name {} % Sets \@name to empty by default
 
-\def \addressSep {$\diamond$} % Set default address separator to a diamond
+\def \addressSep {$\diamond$} % Default separator (overridden in two-column mode) % Set default address separator to a diamond
 
 % One, two or three address lines can be specified 
 \let \@addressone \relax
@@ -59,6 +62,15 @@
   \begingroup
     \def \\ {\addressSep\ }
     \centerline{#1}
+  \endgroup
+  \par
+  \addressskip
+}
+
+% \printleftright prints two items on the same line, left and right aligned
+\def \printleftright #1#2{
+  \begingroup
+    \noindent #1 \hfill #2
   \endgroup
   \par
   \addressskip
@@ -97,7 +109,7 @@
   \sectionskip
   \MakeUppercase{\bf #1} % Section title
   \sectionlineskip
-  \hrule % Horizontal line
+  {\color{sectionblue}\hrule height 0.8pt} % Colored horizontal line
   \begin{list}{}{ % List for each individual item in the section
     \setlength{\leftmargin}{1.5em} % Margin within the section
   }
@@ -127,7 +139,7 @@
  }
 
 % The below commands define the whitespace after certain things in the document - they can be \smallskip, \medskip or \bigskip
-\def\namesize{\huge} % Size of the name at the top of the document
+\def\namesize{\LARGE} % Size of the name at the top of the document
 \def\addressskip{\smallskip} % The space between the two address (or phone/email) lines
 \def\sectionlineskip{\medskip} % The space above the horizontal line for each section 
 \def\nameskip{\bigskip} % The space after your name at the top
