@@ -135,6 +135,12 @@ Awards: 'Jingshi' Scholarship (2016 - 2018)
 
 ---
 
+## MEDIA COVERAGE
+
+* <a href="https://www.youtube.com/watch?v=dPwabntYj9s" target="_blank">**Why LLZTO is the Secret to Super-Fast EV Charging**</a> — UC Riverside (YouTube)
+
+---
+
 ## SELECTED PUBLICATIONS
 
 * <a href="https://doi.org/10.1039/D5CC04693A" target="_blank">**Glass-like thermal transport in polycrystalline perovskite lithium-ion conductor Li₃/₈Sr₇/₁₆Hf₁/₄Ta₃/₄O₃**</a>
