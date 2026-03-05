@@ -183,6 +183,8 @@ Awards: 'Jingshi' Scholarship (2016 - 2018)
 
 * <a href="https://www.youtube.com/watch?v=dPwabntYj9s" target="_blank">**Why LLZTO is the Secret to Super-Fast EV Charging**</a> — UC Riverside (YouTube)
 
+* <a href="https://ece.ucr.edu/news/2023/05/10/ece-phd-student-wins-materials-research-student-talk-award" target="_blank">**ECE PhD Student Wins Materials Research Student Talk Award**</a> — UCR ECE Department (May 2023)
+
 ---
 
 ## SELECTED PUBLICATIONS
