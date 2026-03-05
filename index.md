@@ -179,9 +179,9 @@ Awards: 'Jingshi' Scholarship (2016 - 2018)
 
 ## MEDIA COVERAGE
 
-* <a href="https://news.ucr.edu/articles/2025/10/22/cool-battery-power" target="_blank">**Cool Battery Power**</a> — UC Riverside News (Oct 2025)
-
 * <a href="https://www.youtube.com/watch?v=dPwabntYj9s" target="_blank">**Why LLZTO is the Secret to Super-Fast EV Charging**</a> — UC Riverside (Feb 2026)
+
+* <a href="https://news.ucr.edu/articles/2025/10/22/cool-battery-power" target="_blank">**Cool Battery Power**</a> — UC Riverside News (Oct 2025)
 
 * <a href="https://ece.ucr.edu/news/2023/05/10/ece-phd-student-wins-materials-research-student-talk-award" target="_blank">**ECE PhD Student Wins Materials Research Student Talk Award**</a> — UCR ECE Department (May 2023)
 
