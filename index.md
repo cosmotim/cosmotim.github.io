@@ -179,6 +179,8 @@ Awards: 'Jingshi' Scholarship (2016 - 2018)
 
 ## MEDIA COVERAGE
 
+* <a href="https://news.ucr.edu/articles/2025/10/22/cool-battery-power" target="_blank">**Cool Battery Power**</a> — UC Riverside News (Oct 2025)
+
 * <a href="https://www.youtube.com/watch?v=dPwabntYj9s" target="_blank">**Why LLZTO is the Secret to Super-Fast EV Charging**</a> — UC Riverside (YouTube)
 
 ---
