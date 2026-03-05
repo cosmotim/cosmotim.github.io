@@ -135,6 +135,48 @@ Awards: 'Jingshi' Scholarship (2016 - 2018)
 
 ---
 
+## TEACHING EXPERIENCE
+
+### Graduate Teaching Assistant
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>University of California, Riverside</strong></span>
+  <span>Sep. 2022 - Dec. 2025</span>
+</div>
+
+| Course | Role | Term | Evaluation |
+|--------|------|------|------------|
+| Technology in the Premodern World (ENGR 108) | Reader | Fall 2025 | |
+| Circuits and Electronics Lab (EE 005) | Lab Instructor | Spring 2025 | 7.0/7.0 (96th %ile) |
+| Technology in the Premodern World (ENGR 108) | TA / Reader | Spring 2025 | 5.7/7.0 (83rd %ile) |
+| Linear Methods for Engr. Analysis – MATLAB (EE 020B) | Discussion TA | Winter 2023 | 6.5/7.0 (81st %ile) |
+| Magnetic Materials (EE 139) | Discussion TA | Fall 2022 | 6.5/7.0 (77th %ile) |
+
+* Served 280+ students across 7 sections over 3 academic years.
+* Achieved perfect 7.0/7.0 evaluation (96th percentile campus-wide) in EE 005, with consistently above-department averages across all courses.
+* Selected student feedback: "singlehandedly one of the most effective teachers on this campus" and "top tier educator" (EE 005); "the backbone of the entire class" (EE 020B); "always helpful... feedback was helpful in creating a well organized presentation" (EE 139).
+
+---
+
+## INTERNSHIP EXPERIENCE
+
+### Administrative Assistant, Physics Department
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>Beijing Normal University</strong></span>
+  <span>Sep. 2018 - Jan. 2019</span>
+</div>
+
+* Managed archival of 3 years of departmental paperwork and organized the academic calendar for 4 course sections.
+
+### Student Intern
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>Shanghai East China Computer Corp.</strong></span>
+  <span>Jul. 2016 - Aug. 2016</span>
+</div>
+
+* Gained hands-on exposure to IT industry workflows, strengthening teamwork and cross-functional communication skills.
+
+---
+
 ## MEDIA COVERAGE
 
 * <a href="https://www.youtube.com/watch?v=dPwabntYj9s" target="_blank">**Why LLZTO is the Secret to Super-Fast EV Charging**</a> — UC Riverside (YouTube)
