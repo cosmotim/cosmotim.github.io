@@ -185,25 +185,25 @@ Awards: 'Jingshi' Scholarship (2016 - 2018)
 
 ## SELECTED PUBLICATIONS
 
-* <a href="https://doi.org/10.1039/D5CC04693A" target="_blank">**Glass-like thermal transport in polycrystalline perovskite lithium-ion conductor Li₃/₈Sr₇/₁₆Hf₁/₄Ta₃/₄O₃**</a>
-  *Chemical Communications* (2025) <a href="https://doi.org/10.1039/D5CC90366A" target="_blank">[Front Cover]</a>
-  **Wang, Y.**, Jia, Q., Li, S., Shi, L., Li, Y., & Chen, X.
-
 * <a href="https://doi.org/10.1007/s42864-025-00357-6" target="_blank">**Low Thermal Conductivity and Lattice Anharmonicity of NaSICON-type Solid Electrolyte Na₃Zr₂Si₂PO₁₂**</a>
   *Tungsten* (2025)
+  **Wang, Y.**, Jia, Q., Li, S., Shi, L., Li, Y., & Chen, X.
+
+* <a href="https://doi.org/10.1039/D5CC04693A" target="_blank">**Glass-like thermal transport in polycrystalline perovskite lithium-ion conductor Li₃/₈Sr₇/₁₆Hf₁/₄Ta₃/₄O₃**</a>
+  *Chemical Communications* (2025) <a href="https://doi.org/10.1039/D5CC90366A" target="_blank">[Front Cover]</a>
   **Wang, Y.**, Jia, Q., Li, S., Shi, L., Li, Y., & Chen, X.
 
 * <a href="https://doi.org/10.1103/6wj2-kzhh" target="_blank">**Origin of intrinsically low thermal conductivity in a garnet-type solid electrolyte: Linking lattice and ionic dynamics with thermal transport**</a>
   *PRX Energy* (2025)
   **Wang, Y.**, Su, Y., Carrete, J., Zhang, H., Wu, N., Li, Y., Li, H., He, J., Xu, Y., Guo, S., Cai, Q., Abernathy, D. L., Williams, T., Kravchyk, K. V., Kovalenko, M. V., Madsen, G. K. H., Li, C., & Chen, X.
 
-* <a href="https://doi.org/10.1039/D4TA02264E" target="_blank">**Thermal properties and lattice anharmonicity of Li-ion conducting garnet solid electrolyte Li₆.₅La₃Zr₁.₅Ta₀.₅O₁₂**</a>
-  *Journal of Materials Chemistry A* (2024)
-  **Wang, Y.**, Li, S., Wu, N., Jia, Q., Hoke, T., Shi, L., Li, Y., & Chen, X.
-
 * <a href="https://doi.org/10.1063/5.0214897" target="_blank">**Enhanced magnon thermal transport in yttrium-doped spin ladder compounds Sr₁₄₋ₓYₓCu₂₄O₄₁**</a>
   *Journal of Applied Physics* (2024)
   Li, S., Guo, S., **Wang, Y.**, Li, H., Xu, Y., Carta, V., Zhou, J., & Chen, X.
+
+* <a href="https://doi.org/10.1039/D4TA02264E" target="_blank">**Thermal properties and lattice anharmonicity of Li-ion conducting garnet solid electrolyte Li₆.₅La₃Zr₁.₅Ta₀.₅O₁₂**</a>
+  *Journal of Materials Chemistry A* (2024)
+  **Wang, Y.**, Li, S., Wu, N., Jia, Q., Hoke, T., Shi, L., Li, Y., & Chen, X.
 
 * <a href="https://doi.org/10.1016/j.xcrp.2024.101879" target="_blank">**Size-dependent magnon thermal transport in a nanostructured quantum magnet**</a>
   *Cell Reports Physical Science* (2024)
