@@ -194,7 +194,7 @@ Awards: 'Jingshi' Scholarship (2016 - 2018)
   **Wang, Y.**, Jia, Q., Li, S., Shi, L., Li, Y., & Chen, X.
 
 * <a href="https://doi.org/10.1039/D5CC04693A" target="_blank">**Glass-like thermal transport in polycrystalline perovskite lithium-ion conductor Li₃/₈Sr₇/₁₆Hf₁/₄Ta₃/₄O₃**</a>
-  *Chemical Communications* (2025) <a href="https://doi.org/10.1039/D5CC90366A" target="_blank">[Front Cover]</a>
+  *Chemical Communications* (Sep 2025) <a href="https://doi.org/10.1039/D5CC90366A" target="_blank">[Front Cover]</a>
   **Wang, Y.**, Jia, Q., Li, S., Shi, L., Li, Y., & Chen, X.
 
 * <a href="https://doi.org/10.1103/6wj2-kzhh" target="_blank">**Origin of intrinsically low thermal conductivity in a garnet-type solid electrolyte: Linking lattice and ionic dynamics with thermal transport**</a>
@@ -206,7 +206,7 @@ Awards: 'Jingshi' Scholarship (2016 - 2018)
   Li, S., Guo, S., **Wang, Y.**, Li, H., Xu, Y., Carta, V., Zhou, J., & Chen, X.
 
 * <a href="https://doi.org/10.1039/D4TA02264E" target="_blank">**Thermal properties and lattice anharmonicity of Li-ion conducting garnet solid electrolyte Li₆.₅La₃Zr₁.₅Ta₀.₅O₁₂**</a>
-  *Journal of Materials Chemistry A* (2024)
+  *Journal of Materials Chemistry A* (Jun 2024)
   **Wang, Y.**, Li, S., Wu, N., Jia, Q., Hoke, T., Shi, L., Li, Y., & Chen, X.
 
 * <a href="https://doi.org/10.1016/j.xcrp.2024.101879" target="_blank">**Size-dependent magnon thermal transport in a nanostructured quantum magnet**</a>
