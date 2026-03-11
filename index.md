@@ -177,12 +177,11 @@ Awards: 'Jingshi' Scholarship (2016 - 2018)
 
 ---
 
-## PROFESSIONAL MEMBERSHIPS & SERVICE
+## PROFESSIONAL MEMBERSHIPS
 
 * Sigma Xi, The Scientific Research Honor Society — Elected Full Member (2026)
 * American Physical Society (APS) — Member (2025–2026)
 * Materials Research Society (MRS) — Student Member (through 2027)
-* Peer Reviewer, *Chemical Science* (Royal Society of Chemistry), 2024
 
 ---
 
