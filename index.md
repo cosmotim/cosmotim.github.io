@@ -177,6 +177,15 @@ Awards: 'Jingshi' Scholarship (2016 - 2018)
 
 ---
 
+## PROFESSIONAL MEMBERSHIPS & SERVICE
+
+* Sigma Xi, The Scientific Research Honor Society — Elected Full Member (2026)
+* American Physical Society (APS) — Member (2025–2026)
+* Materials Research Society (MRS) — Student Member (through 2027)
+* Peer Reviewer, *Chemical Science* (Royal Society of Chemistry), 2024
+
+---
+
 ## MEDIA COVERAGE
 
 * <a href="https://www.youtube.com/watch?v=dPwabntYj9s" target="_blank">**Why LLZTO is the Secret to Super-Fast EV Charging**</a> — UC Riverside (Feb 2026)
