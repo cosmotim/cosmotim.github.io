@@ -5,7 +5,7 @@ a:visited { color: #551a8b; }
 
 ## YITIAN WANG
 ##### ywang1057@ucr.edu · +1(929)624-1021
-##### <a href="http://linkedin.com/in/tim-wang-yitian/">LinkedIn</a> · <a href="http://cosmotim.github.io/CV_Latex/Resume_of_YitianWang.pdf" target="_blank">CV (PDF)</a>
+##### <a href="http://linkedin.com/in/tim-wang-yitian/">LinkedIn</a> · <a href="http://cosmotim.github.io/CV_Latex/Curriculum_Vitae_YitianWang.pdf" target="_blank">CV (PDF)</a>
 
 ---
 
