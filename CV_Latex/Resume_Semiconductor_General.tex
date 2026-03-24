@@ -1,0 +1,146 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% General Semiconductor Industry Resume
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{resume}
+\usepackage[colorlinks=true,
+            linkcolor=red,
+            urlcolor=blue,
+            citecolor=gray]{hyperref}
+\usepackage{graphicx}
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry}
+\usepackage{tikz}
+\usepackage{eso-pic}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Yitian Wang}
+\begin{document}
+
+% QR code next to name (right side of name line)
+\AddToShipoutPictureBG*{%
+  \AtPageUpperLeft{\put(493,-56){\includegraphics[width=1.3cm]{qrcode_H.png}}}%
+}
+
+% Contact layout — symmetric text
+\vspace{-1em}
+\noindent
+\begin{minipage}[t]{0.5\textwidth}
+\raggedright
++1(929)624-1021 \\
+\href{mailto:ywang1057@ucr.edu}{ywang1057@ucr.edu}
+\end{minipage}%
+\begin{minipage}[t]{0.5\textwidth}
+\raggedleft
+\href{http://cosmotim.github.io}{cosmotim.github.io} \\
+\href{http://linkedin.com/in/tim-wang-yitian/}{linkedin.com/in/tim-wang-yitian}
+\end{minipage}
+\vspace{0.5em}
+
+%----------------------------------------------------------------------------------------
+%	SUMMARY
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{SUMMARY}
+Ph.D.\ in Electrical Engineering with expertise in thin-film deposition (PVD/CVD), crystal growth, materials characterization, and process optimization.
+Experienced in DOE-based process development, hardware troubleshooting, and large-scale data analysis using Python and MATLAB.
+Led multi-institutional experiments at Oak Ridge National Laboratory and published 5 first-author papers.
+Strong foundation in semiconductor device physics and CMOS process flows through graduate-level coursework.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EDUCATION}
+{\bf University of California, Riverside, CA}\hfill{\em Mar. 2021 - Jun. 2026 (expected)}
+\\ Ph.D. in Electrical and Computer Engineering
+\\ Awards: MRS 2023 Highly Commended Student Talk Award; Dissertation Completion Fellowship
+\\ Coursework: Semiconductor Device Physics, CMOS Fabrication, Thin-Film Technology
+\\
+\\{\bf Columbia University in the City of New York, NY}\hfill{\em Aug. 2019 - Feb. 2021}
+\\ Master of Science, Material Science and Engineering
+\\
+\\{\bf Beijing Normal University, CN} \hfill {\em Sep. 2015 - Jun. 2019}
+\\ Bachelor of Science, Physics
+\\ Awards: 'Jingshi' Scholarship (2016 - 2018)
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	SKILLS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Skills}
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} p{12.5cm} }
+Process \& Deposition & PVD / Magnetron Sputtering, CVD, Floating-Zone Crystal Growth, DOE \\[3pt]
+Characterization & SEM, TEM, XRD, AFM, Raman, FTIR, Inelastic Neutron Scattering, PPMS, DSC, TGA, Four-Probe Transport \\[3pt]
+Software & Python, MATLAB, PyTorch, R, SQL, GSAS-II, Mantid, ImageJ, SolidWorks, Quantum ESPRESSO, VASP, COMSOL \\[3pt]
+Electrochemistry & Prototype Cell Assembly, Separator Fabrication, EIS, Galvanostatic Cycling
+\end{tabular}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{RESEARCH AND ENGINEERING EXPERIENCE}
+
+\begin{rSubsection}
+    {Graduate Research Assistant --- Process Development \& Characterization}{\em Jun. 2021 - Jun. 2025}
+    {University of California, Riverside}{Riverside, CA}
+\item Designed and executed DOE-based experiments to optimize crystal growth and thin-film deposition processes for solid-state electrolyte materials.
+\item Performed systematic hardware characterization on floating-zone furnaces and deposition systems, troubleshooting process issues and implementing parameter improvements.
+\item Measured and analyzed film and bulk material properties (XRD, SEM, Raman, FTIR, four-probe transport) to establish process-property correlations.
+\item Built automated data analysis and fitting frameworks in MATLAB and Python, generating technical reports and presentations for cross-functional teams.
+\item Managed vendor relationships (Thermo Fisher, Sigma-Aldrich, MTI) and mentored junior graduate students on experimental techniques.
+\end{rSubsection}
+
+\begin{rSubsection}
+    {Experiment Lead --- Neutron Scattering Characterization}{\em Jan. 2022 - Jul. 2023}
+    {Oak Ridge National Laboratory}{Oak Ridge, TN}
+\item Led complex characterization experiments on solid electrolytes using TAX (HFIR) and ARCS (SNS) instruments, coordinating with beamline scientists to optimize experimental parameters.
+\item Developed automated data processing and analysis workflows in Mantid and Python, reducing analysis turnaround and improving reproducibility.
+\item Generated technical documentation and coordinated across 5+ institutions including ORNL, ETH Z\"{u}rich, and TU Wien.
+\end{rSubsection}
+
+\begin{rSubsection}
+    {Graduate Researcher --- Battery Materials \& Process Engineering}{\em Sep. 2019 - Jan. 2021}
+    {Columbia University}{New York, NY}
+\item Developed composite separator fabrication processes using solution processing of $\gamma$-C$_3$N$_4$/PVDF, optimizing film uniformity and mechanical properties.
+\item Assembled prototype coin cells and performed electrochemical characterization (EIS, galvanostatic cycling) to evaluate process quality and device performance.
+\item Conducted first-principles simulations (Quantum ESPRESSO) to predict defect behavior and guide process design for olivine-type electrode materials.
+\end{rSubsection}
+
+\begin{rSubsection}
+    {Student Researcher --- Hardware Design \& Characterization}{\em Sep. 2018 - May 2019}
+    {Beijing Normal University}{Beijing, CN}
+\item Designed precision uniaxial-strain devices in SolidWorks for thin-film sample characterization.
+\item Performed systematic transport measurements using PPMS, developing testing protocols for temperature-dependent material studies.
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PROFESSIONAL MEMBERSHIPS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFESSIONAL MEMBERSHIPS}
+Sigma Xi (Elected Full Member, 2026) $\cdot$ American Physical Society (2025--2026) $\cdot$ Materials Research Society (through 2027)
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	SELECTED PUBLICATIONS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{SELECTED PUBLICATIONS (5 first-author)}
+\begin{enumerate}
+\itemsep 0.05em
+\item \textbf{Y. Wang} et al.\ ``Origin of intrinsically low thermal conductivity in a garnet-type solid electrolyte.'' \textit{PRX Energy}, 2025. \href{https://doi.org/10.1103/6wj2-kzhh}{[Link]}
+\item \textbf{Y. Wang} et al.\ ``Glass-like thermal transport in perovskite Li-ion conductor.'' \textit{Chem.\ Commun.}, 2025 (Front Cover). \href{https://doi.org/10.1039/D5CC04693A}{[Link]}
+\item \textbf{Y. Wang} et al.\ ``Low thermal conductivity of NaSICON-type solid electrolyte.'' \textit{Tungsten}, 2025. \href{https://doi.org/10.1007/s42864-025-00357-6}{[Link]}
+\item \textbf{Y. Wang} et al.\ ``Thermal properties of Li-ion conducting garnet solid electrolyte.'' \textit{J.\ Mater.\ Chem.\ A}, 2024. \href{https://doi.org/10.1039/D4TA02264E}{[Link]}
+\item \textbf{Y. Wang}, X. Chen.\ ``Single crystal growth of garnet-type fast Li-ion conductors.'' \textit{Tungsten}, 2022. \href{https://doi.org/10.1007/s42864-022-00176-z}{[Link]}
+\end{enumerate}
+\end{rSection}
+
+\end{document}

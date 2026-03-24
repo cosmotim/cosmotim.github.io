@@ -1,0 +1,158 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% General Battery / Solid-State Electrolyte Industry Resume
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{resume}
+\usepackage[colorlinks=true,
+            linkcolor=red,
+            urlcolor=blue,
+            citecolor=gray]{hyperref}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{eso-pic}
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry}
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Yitian Wang}
+\begin{document}
+
+% QR code next to name
+\AddToShipoutPictureBG*{%
+  \AtPageUpperLeft{\put(493,-56){\includegraphics[width=1.3cm]{qrcode_H.png}}}%
+}
+
+% Contact layout
+\vspace{-1em}
+\noindent
+\begin{minipage}[t]{0.5\textwidth}
+\raggedright
++1(929)624-1021 \\
+\href{mailto:ywang1057@ucr.edu}{ywang1057@ucr.edu}
+\end{minipage}%
+\begin{minipage}[t]{0.5\textwidth}
+\raggedleft
+\href{http://cosmotim.github.io}{cosmotim.github.io} \\
+\href{http://linkedin.com/in/tim-wang-yitian/}{linkedin.com/in/tim-wang-yitian}
+\end{minipage}
+\vspace{0.5em}
+
+%----------------------------------------------------------------------------------------
+% SUMMARY
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{SUMMARY}
+Ph.D.\ in Electrical Engineering specializing in solid-state electrolytes for next-generation Li-ion batteries.
+Published 5 first-author papers on garnet, NaSICON, and perovskite solid electrolytes --- three leading families in all-solid-state battery development.
+Experienced in crystal growth, cell assembly and testing, impedance spectroscopy, thermal transport characterization, and computational materials design.
+Led multi-institutional experiments at Oak Ridge National Laboratory coordinating across 7 groups at 5 institutions.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EDUCATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{EDUCATION}
+{\bf University of California, Riverside, CA}\hfill{\em Mar.\ 2021 -- Jun.\ 2026 (expected)}
+\\ Ph.D.\ in Electrical and Computer Engineering
+\\ Awards: MRS 2023 Highly Commended Student Talk Award; Dissertation Completion Fellowship
+\\ Coursework: Solid-State Physics, Semiconductor Devices, Electrochemistry, Thin-Film Technology
+\\
+\\{\bf Columbia University in the City of New York, NY}\hfill{\em Aug.\ 2019 -- Feb.\ 2021}
+\\ Master of Science, Material Science and Engineering
+\\
+\\{\bf Beijing Normal University, CN} \hfill {\em Sep.\ 2015 -- Jun.\ 2019}
+\\ Bachelor of Science, Physics
+\\ Awards: 'Jingshi' Scholarship (2016 -- 2018)
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% SKILLS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Skills}
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} p{12.5cm} }
+Cell Fab \& Electrochemistry & Glovebox (Ar), Coin-Cell Assembly (CR2032), Separator Fabrication, EIS, Galvanostatic Cycling \\[3pt]
+Synthesis \& Processing & Floating-Zone Crystal Growth, Solid-State Sintering, Powder Synthesis, Solution Processing, PVD, CVD \\[3pt]
+Characterization & XRD, SEM, TEM, AFM, Raman, FTIR, Inelastic Neutron Scattering, DSC, TGA, PPMS, Four-Probe Ionic/Electronic Transport \\[3pt]
+Software \& Methods & Python, MATLAB, PyTorch, Quantum ESPRESSO, VASP, GSAS-II, Mantid, COMSOL, DOE, Statistical Analysis
+\end{tabular}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{RESEARCH AND ENGINEERING EXPERIENCE}
+
+\begin{rSubsection}
+    {Graduate Research Assistant --- Solid-State Electrolyte Development}{\em Jun.\ 2021 -- Jun.\ 2025}
+    {University of California, Riverside}{Riverside, CA}
+\item Synthesized and characterized three families of solid-state electrolytes (garnet LLZTO, NaSICON NZSP, perovskite LSHT), establishing structure--property--performance relationships across each system.
+\item Built a floating-zone crystal growth platform from scratch, producing centimeter-scale LLZTO single crystals --- enabling phonon-resolved measurements previously infeasible on polycrystalline samples.
+\item Discovered \textit{diffuson}-mediated thermal transport in Li-ion solid electrolytes, providing the first experimental verification of this mechanism and informing thermal management strategies for solid-state battery packs.
+\item Developed a two-channel thermal-conductivity model in MATLAB explaining anomalous temperature dependence where traditional Debye models failed --- applied across all three electrolyte families.
+\item Performed comprehensive characterization (XRD, SEM, Raman, FTIR, DSC/TGA, four-probe) to evaluate phase purity, microstructure, and ionic/thermal transport properties.
+\end{rSubsection}
+
+\begin{rSubsection}
+    {Experiment Lead --- Neutron Scattering on Solid Electrolytes}{\em Jan.\ 2022 -- Jul.\ 2023}
+    {Oak Ridge National Laboratory}{Oak Ridge, TN}
+\item Authored two successful beam time proposals and led inelastic neutron scattering experiments on LLZTO single crystals at ORNL (TAX/HFIR and ARCS/SNS).
+\item Resolved the full phonon dispersion of a garnet solid electrolyte for the first time, providing benchmarks for ab initio lattice-dynamics predictions of ionic conductivity.
+\item Built automated data-reduction pipelines in Mantid and Python, improving reproducibility and reducing analysis turnaround.
+\item Coordinated across 7 research groups at UCR, UT Austin, ORNL, ETH Z\"{u}rich, and TU Wien.
+\end{rSubsection}
+
+\begin{rSubsection}
+    {Graduate Researcher --- Battery Materials \& Cell Testing}{\em Sep.\ 2019 -- Jan.\ 2021}
+    {Columbia University}{New York, NY}
+\item Engineered composite Li-ion battery separators ($\gamma$-C$_3$N$_4$/PVDF) via solution processing, optimizing film uniformity and mechanical properties for improved electrochemical kinetics.
+\item Assembled and tested CR2032 coin cells in an Ar-filled glovebox over 100+ galvanostatic cycles, characterizing capacity retention, rate capability, and interfacial stability via EIS.
+\item Applied first-principles DFT (Quantum ESPRESSO) to model defect stability in olivine cathode structures, guiding materials selection for electrode design.
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PROFESSIONAL MEMBERSHIPS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{PROFESSIONAL MEMBERSHIPS}
+\begin{itemize}
+\itemsep 0.05em
+\item Sigma Xi, The Scientific Research Honor Society --- Elected Full Member (2026)
+\item American Physical Society (APS) --- Member (2025 -- 2026)
+\item Materials Research Society (MRS) --- Student Member (through 2027)
+\end{itemize}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% PUBLICATIONS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{SELECTED PUBLICATIONS (5 first-author)}
+\begin{enumerate}
+\itemsep 0.05em
+\item \textbf{Y. Wang} et al.\ ``Low thermal conductivity of NaSICON-type solid electrolyte Na$_3$Zr$_2$Si$_2$PO$_{12}$.'' \textit{Tungsten}, 2025. \href{https://doi.org/10.1007/s42864-025-00357-6}{[Link]}
+\item \textbf{Y. Wang} et al.\ ``Glass-like thermal transport in perovskite Li-ion conductor.'' \textit{Chem.\ Commun.}, 2025 (Front Cover). \href{https://doi.org/10.1039/D5CC04693A}{[Link]}
+\item \textbf{Y. Wang} et al.\ ``Origin of intrinsically low thermal conductivity in a garnet-type solid electrolyte.'' \textit{PRX Energy}, 2025. \href{https://doi.org/10.1103/6wj2-kzhh}{[Link]}
+\item \textbf{Y. Wang} et al.\ ``Thermal properties of Li-ion conducting garnet solid electrolyte LLZTO.'' \textit{J.\ Mater.\ Chem.\ A}, 2024. \href{https://doi.org/10.1039/D4TA02264E}{[Link]}
+\item \textbf{Y. Wang}, X. Chen.\ ``Single crystal growth of garnet-type fast Li-ion conductors.'' \textit{Tungsten}, 2022. \href{https://doi.org/10.1007/s42864-022-00176-z}{[Link]}
+\end{enumerate}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+% MEDIA COVERAGE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{MEDIA COVERAGE}
+\begin{itemize}
+\itemsep 0.05em
+\item \href{https://www.youtube.com/watch?v=dPwabntYj9s}{Why LLZTO is the Secret to Super-Fast EV Charging} --- UC Riverside, Feb.\ 2026
+\item \href{https://news.ucr.edu/articles/2025/10/22/cool-battery-power}{Cool Battery Power} --- UC Riverside News, Oct.\ 2025
+\item \href{https://ece.ucr.edu/news/2023/05/10/ece-phd-student-wins-materials-research-student-talk-award}{ECE PhD Student Wins Materials Research Student Talk Award} --- UCR ECE, May 2023
+\end{itemize}
+\end{rSection}
+
+\end{document}
