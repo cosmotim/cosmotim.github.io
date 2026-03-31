@@ -145,11 +145,11 @@ Awards: 'Jingshi' Scholarship (2016 - 2018)
 
 | Course | Role | Term | Evaluation |
 |--------|------|------|------------|
-| Technology in the Premodern World (ENGR 108) | Reader | Fall 2025 | |
+| Technology in the Premodern World (ENGR 108) | Reader | Fall 2025 | N/A |
 | Circuits and Electronics Lab (EE 005) | Lab Instructor | Spring 2025 | 7.0/7.0 (96th %ile) |
-| Technology in the Premodern World (ENGR 108) | TA / Reader | Spring 2025 | 5.7/7.0 (83rd %ile) |
-| Linear Methods for Engr. Analysis – MATLAB (EE 020B) | Discussion TA | Winter 2023 | 6.5/7.0 (81st %ile) |
-| Magnetic Materials (EE 139) | Discussion TA | Fall 2022 | 6.5/7.0 (77th %ile) |
+| Technology in the Premodern World (ENGR 108) | Teaching Assistant / Reader | Spring 2025 | 5.7/7.0 (83rd %ile) |
+| Linear Methods for Engr. Analysis – MATLAB (EE 020B) | Discussion Teaching Assistant | Winter 2023 | 6.5/7.0 (81st %ile) |
+| Magnetic Materials (EE 139) | Discussion Teaching Assistant | Fall 2022 | 6.5/7.0 (77th %ile) |
 
 * Served 280+ students across 7 sections over 3 academic years.
 * Achieved perfect 7.0/7.0 evaluation (96th percentile campus-wide) in EE 005, with consistently above-department averages across all courses.
