@@ -145,7 +145,7 @@ Awards: 'Jingshi' Scholarship (2016 - 2018)
 
 | Course | Role | Term | Evaluation |
 |--------|------|------|------------|
-| Technology in the Premodern World (ENGR 108) | Teaching Assistant | Fall 2025 | N/A |
+| Technology in the Premodern World (ENGR 108) | Reader | Fall 2025 | N/A |
 | Circuits and Electronics Lab (EE 005) | Lab Instructor | Spring 2025 | 7.0/7.0 (96th %ile) |
 | Technology in the Premodern World (ENGR 108) | Teaching Assistant | Spring 2025 | 5.7/7.0 (83rd %ile) |
 | Linear Methods for Engr. Analysis – MATLAB (EE 020B) | Teaching Assistant | Winter 2023 | 6.5/7.0 (81st %ile) |
