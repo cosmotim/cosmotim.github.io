@@ -1,0 +1,17 @@
+# LaTeX build artifacts
+# PDFs are intentionally NOT ignored -- the site serves them directly.
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# macOS
+.DS_Store
