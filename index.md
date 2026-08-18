@@ -11,7 +11,7 @@ a:visited { color: #551a8b; }
 
 ## SUMMARY
 
-Ph.D. scholar in Electrical Engineering specializing in thermal transport and lattice dynamics in functional oxides and solid-state ionic conductors.
+Postdoctoral Fellow at The University of Texas at Austin with a Ph.D. in Electrical Engineering, specializing in thermal transport and lattice dynamics in functional oxides and solid-state ionic conductors.
 Experienced in crystal and thin-film growth, vacuum deposition, material characterization, and data-driven modeling using Python and MATLAB.
 Published 5 first-author works in leading journals and skilled at collaborating with national labs and cross-disciplinary device and materials teams.
 Additional teaching assistant experience during Ph.D. studies.
@@ -23,11 +23,23 @@ Additional teaching assistant experience during Ph.D. studies.
 #### University of California, Riverside
 <div style="display: flex; justify-content: space-between;">
   <span><strong>Riverside, CA</strong></span>
-  <span>Mar. 2021 - Jun. 2026 (expected)</span>
+  <span>Mar. 2021 - Jun. 2026</span>
 </div>
 
 Ph.D. in Electrical and Computer Engineering
 Awards: Dissertation Completion Fellowship Award; MRS 2023 Spring Highly Commended Student Talk Award
+
+## CURRENT APPOINTMENT
+
+#### Postdoctoral Fellow
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>The University of Texas at Austin</strong></span>
+  <span>Jul. 2026 - Present</span>
+</div>
+
+##### Austin, TX
+
+Conducting postdoctoral research in materials and energy-related engineering.
 
 #### Columbia University in the City of New York
 <div style="display: flex; justify-content: space-between;">
