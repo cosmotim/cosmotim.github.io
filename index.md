@@ -29,18 +29,6 @@ Additional teaching assistant experience during Ph.D. studies.
 Ph.D. in Electrical and Computer Engineering
 Awards: Dissertation Completion Fellowship Award; MRS 2023 Spring Highly Commended Student Talk Award
 
-## CURRENT APPOINTMENT
-
-#### Postdoctoral Fellow
-<div style="display: flex; justify-content: space-between;">
-  <span><strong>The University of Texas at Austin</strong></span>
-  <span>Jul. 2026 - Present</span>
-</div>
-
-##### Austin, TX
-
-Conducting postdoctoral research in materials and energy-related engineering.
-
 #### Columbia University in the City of New York
 <div style="display: flex; justify-content: space-between;">
   <span><strong>New York, NY</strong></span>
@@ -94,6 +82,19 @@ Awards: 'Jingshi' Scholarship (2016 - 2018)
 
 #### Methods & Other
 * Design of Experiments (DOE), Uniaxial Strain Tuning
+
+---
+
+## CURRENT APPOINTMENT
+
+### Postdoctoral Fellow
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>The University of Texas at Austin</strong></span>
+  <span>Jul. 2026 - Present</span>
+</div>
+##### Austin, TX
+
+Conducting postdoctoral research in materials and energy-related engineering.
 
 ---
 
