@@ -13,7 +13,7 @@ a:visited { color: #551a8b; }
 
 Postdoctoral Fellow at The University of Texas at Austin with a Ph.D. in Electrical Engineering, specializing in thermal transport and lattice dynamics in functional oxides and solid-state ionic conductors.
 Experienced in crystal and thin-film growth, vacuum deposition, material characterization, and data-driven modeling using Python and MATLAB.
-Published 5 first-author works in leading journals and skilled at collaborating with national labs and cross-disciplinary device and materials teams.
+Published 6 first-author works in leading journals and skilled at collaborating with national labs and cross-disciplinary device and materials teams.
 Additional teaching assistant experience during Ph.D. studies.
 
 ---
@@ -108,7 +108,7 @@ Conducting postdoctoral research in materials and energy-related engineering.
 ##### Riverside, CA
 
 * Pioneered lattice-dynamics studies on Li-ion solid-state electrolytes, extending work previously limited to Cu- and Ag-ion systems.
-* Published 5 first-author papers in journals including *PRX Energy* and *J. Mater. Chem. A*.
+* Published 6 first-author papers in journals including *Applied Physics Reviews*, *PRX Energy*, and *J. Mater. Chem. A*.
 * Built a floating-zone crystal growth workflow from scratch, producing centimeter-scale LLZTO single crystals that enabled phonon-resolved neutron scattering measurements previously infeasible on polycrystalline samples.
 * Identified diffuson-mediated thermal transport in Li-ion conductors, providing the first verification of this mechanism in Li-ion solid-state electrolytes.
 * Developed a two-channel (phonon + diffuson) thermal-conductivity model in MATLAB that explained anomalous temperature dependence in Li-ion conductors where the traditional Debye model failed.
@@ -211,6 +211,10 @@ Conducting postdoctoral research in materials and energy-related engineering.
 ---
 
 ## SELECTED PUBLICATIONS
+
+* <a href="https://doi.org/10.1063/5.0318328" target="_blank">**Thermal transport mechanisms in electrolytes for all-solid-state batteries**</a>
+  *Applied Physics Reviews* (Sep 2026)
+  **Wang, Y.**, Wang, H., & Chen, X.
 
 * <a href="https://doi.org/10.1007/s42864-025-00357-6" target="_blank">**Low Thermal Conductivity and Lattice Anharmonicity of NaSICON-type Solid Electrolyte Na₃Zr₂Si₂PO₁₂**</a>
   *Tungsten* (Nov 2025)
