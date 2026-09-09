@@ -212,6 +212,10 @@ Conducting postdoctoral research in materials and energy-related engineering.
 
 ## SELECTED PUBLICATIONS
 
+* **Thermal Transport and Lattice Dynamics in Solid Electrolytes**
+  *Ph.D. Dissertation, University of California, Riverside* (2026)
+  **Wang, Y.**
+
 * <a href="https://doi.org/10.1063/5.0318328" target="_blank">**Thermal transport mechanisms in electrolytes for all-solid-state batteries**</a>
   *Applied Physics Reviews* (Sep 2026)
   **Wang, Y.**, Wang, H., & Chen, X.
