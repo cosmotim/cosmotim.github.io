@@ -28,5 +28,9 @@ home: true
   <div class="section-heading"><div><p class="eyebrow">Selected publications</p><h2 id="publications-heading">Recent work & key findings</h2></div><a class="text-link" href="{{ '/publications/' | relative_url }}">All publications →</a></div>
   {% for paper in site.data.publications %}{% if paper.selected %}{% include publication.html paper=paper %}{% endif %}{% endfor %}
 </section>
+<section class="home-section" aria-labelledby="media-heading">
+  <div class="section-heading"><div><p class="eyebrow">Media & recognition</p><h2 id="media-heading">Research in the news</h2></div></div>
+  {% include media.html %}
+</section>
 <section class="home-section documents-strip" aria-labelledby="documents-heading"><p class="eyebrow">Documents</p><h2 id="documents-heading">Background, in brief or in full</h2>{% include documents.html %}</section>
 <section class="contact-panel" aria-labelledby="contact-heading"><div><p class="eyebrow">Contact</p><h2 id="contact-heading">Let’s connect.</h2><p>Interested in thermal transport, solid electrolytes, or a research collaboration?</p></div><a class="button button-primary" href="mailto:ywang00149@gmail.com">Email Yitian <span aria-hidden="true">↗</span></a></section>

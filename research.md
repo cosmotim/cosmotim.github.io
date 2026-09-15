@@ -29,10 +29,4 @@ Earlier projects included composite battery separators, CR2032 cell testing, ele
 
 ## Media & recognition
 
-* <a href="https://www.youtube.com/watch?v=dPwabntYj9s" target="_blank" rel="noopener noreferrer">**Why LLZTO is the Secret to Super-Fast EV Charging**</a> — UC Riverside (Feb 2026)
-
-* <a href="https://news.ucr.edu/articles/2025/10/22/cool-battery-power" target="_blank" rel="noopener noreferrer">**Cool Battery Power**</a> — UC Riverside News (Oct 2025)
-
-* <a href="https://techxplore.com/news/2025-10-solid-electrolyte-unique-atomic-generation.html" target="_blank" rel="noopener noreferrer">**Solid electrolyte's unique atomic structure helps next-generation batteries keep their cool**</a> — Tech Xplore (Oct 2025)
-
-* <a href="https://ece.ucr.edu/news/2023/05/10/ece-phd-student-wins-materials-research-student-talk-award" target="_blank" rel="noopener noreferrer">**ECE PhD Student Wins Materials Research Student Talk Award**</a> — UCR ECE Department (May 2023)
+{% include media.html %}

@@ -1,0 +1,8 @@
+<div class="research-grid media-grid">
+  {% for item in site.data.media %}
+  <article class="research-card">
+    <p class="publication-meta">{{ item.outlet }} <span>· {{ item.date }}</span></p>
+    <h3><a href="{{ item.url }}">{{ item.title }} <span aria-hidden="true">↗</span></a></h3>
+  </article>
+  {% endfor %}
+</div>
