@@ -67,6 +67,14 @@ nav a:hover, nav a[aria-current='page'] { color: var(--accent); text-decoration:
 .publication-meta .badge { display: inline-block; margin-left: .8rem; background: var(--surface); border: 1px solid var(--line); padding: .08rem .5rem; border-radius: 3px; color: var(--accent); font-size: .78rem; }
 .authors { color: var(--muted); font-size: .9rem; max-width: 58rem; }
 .authors strong { color: var(--ink); }
+.publication-feature { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.35fr); gap: 2rem; align-items: start; padding-block: 2rem; border-bottom: 1px solid var(--line); }
+.publication-feature figure { margin: 0; min-width: 0; }
+.publication-figure-link { display: flex; align-items: center; justify-content: center; min-height: 240px; background: var(--surface); border: 1px solid var(--line); border-radius: 5px; overflow: hidden; }
+.publication-figure-link img { display: block; width: 100%; height: auto; }
+.publication-figure-link .compact-figure { width: 200px; max-width: 100%; margin-block: 1rem; }
+.publication-feature figcaption { color: var(--muted); font-size: .8rem; line-height: 1.6; margin-top: .75rem; }
+.publication-feature .publication { padding: 0; border: 0; }
+.publication-summary { color: var(--ink); }
 .document-buttons { margin-block: 1.5rem; }
 .document-buttons .button span { font-size: .75rem; letter-spacing: .03em; }
 .additional-document { margin-block: 2rem; padding-block: 1rem; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
@@ -101,6 +109,7 @@ th { background: var(--surface); }
   .hero { grid-template-columns: minmax(0, 1fr) 235px; gap: 2rem; }
 }
 @media (max-width: 700px) {
+  .publication-feature { grid-template-columns: 1fr; gap: 1.2rem; }
   html { scroll-padding-top: 10rem; }
   .container, .nav-shell { width: calc(100% - 2.5rem); }
   nav { flex-wrap: wrap; justify-content: flex-start; gap: .1rem 1.1rem; }

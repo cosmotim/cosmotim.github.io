@@ -16,7 +16,13 @@
     "date": "Sep 2026",
     "authors": "**Wang, Y.**, Wang, H., & Chen, X.",
     "cover": null,
-    "selected": true
+    "selected": true,
+    "summary": "How do solid electrolytes carry heat, and what limits their thermal conductivity? This review connects evidence across oxides, sulfides, and halides, examining lattice dynamics, diffuson transport, and the effects of disorder, porosity, and aging on battery thermal management.",
+    "figure": "/assets/images/publications/electrolyte-thermal-transport.svg",
+    "figure_alt": "Conceptual overview connecting solid electrolyte families, lattice dynamics, and material structure with heat transport.",
+    "figure_caption": "Conceptual overview based on the review; not a reproduced paper figure.",
+    "figure_width": 720,
+    "figure_height": 480
   },
   {
     "title": "Low Thermal Conductivity and Lattice Anharmonicity of NaSICON-type Solid Electrolyte Na₃Zr₂Si₂PO₁₂",
@@ -43,7 +49,15 @@
     "date": "Jul 2025",
     "authors": "**Wang, Y.**, Su, Y., Carrete, J., Zhang, H., Wu, N., Li, Y., Li, H., He, J., Xu, Y., Guo, S., Cai, Q., Abernathy, D. L., Williams, T., Kravchyk, K. V., Kovalenko, M. V., Madsen, G. K. H., Li, C., & Chen, X.",
     "cover": null,
-    "selected": true
+    "selected": true,
+    "summary": "Why does a crystalline garnet electrolyte conduct heat like a glass? Combining single-crystal growth, neutron scattering, and calculations, we connect low thermal conductivity to optical phonon modes and strong anharmonicity. A two-channel model captures contributions from propagating phonons and diffusons.",
+    "figure": "/assets/images/publications/prx-energy-2025.png",
+    "figure_alt": "Published graphical summary showing LLZTO thermal conductivity and modeled propagon and diffuson contributions, with a crystal structure and sample photograph.",
+    "figure_caption": "Published graphical summary. Wang et al., PRX Energy 4, 033004 (2025).",
+    "figure_license": "CC BY 4.0",
+    "figure_license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "figure_width": 200,
+    "figure_height": 200
   },
   {
     "title": "Enhanced magnon thermal transport in yttrium-doped spin ladder compounds Sr₁₄₋ₓYₓCu₂₄O₄₁",
@@ -61,7 +75,13 @@
     "date": "Jun 2024",
     "authors": "**Wang, Y.**, Li, S., Wu, N., Jia, Q., Hoke, T., Shi, L., Li, Y., & Chen, X.",
     "cover": null,
-    "selected": true
+    "selected": true,
+    "summary": "Thermal conductivity, expansion, and heat-capacity measurements reveal strong lattice anharmonicity in polycrystalline LLZTO. We also find that aging increases thermal conductivity at room temperature, highlighting how changes in a solid electrolyte can affect battery heat management.",
+    "figure": "/assets/images/publications/garnet-thermal-properties.svg",
+    "figure_alt": "Study summary: conductivity peaks near 50 K, a Grüneisen parameter of 1.63 at 300 K, and 70–80 percent higher conductivity in aged samples at 300 K.",
+    "figure_caption": "Summary diagram based on reported measurements; not a reproduced paper figure.",
+    "figure_width": 720,
+    "figure_height": 480
   },
   {
     "title": "Size-dependent magnon thermal transport in a nanostructured quantum magnet",

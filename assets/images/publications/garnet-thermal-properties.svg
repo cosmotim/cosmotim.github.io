@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480" role="img" aria-labelledby="title desc">
+<title id="title">Thermal properties of LLZTO: study summary</title>
+<desc id="desc">Measurements of thermal conductivity, thermal expansion, and heat capacity reveal a thermal conductivity peak near 50 kelvin, strong lattice anharmonicity, and a 70 to 80 percent increase in aged sample thermal conductivity at 300 kelvin.</desc>
+<rect width="720" height="480" rx="12" fill="#f3f7f7"/>
+<g font-family="Arial, sans-serif" fill="#202d30">
+<text x="360" y="43" text-anchor="middle" font-size="16" letter-spacing="2" fill="#11665f">GARNET SOLID ELECTROLYTE · LLZTO</text>
+<g fill="#fff" stroke="#b7cecb"><rect x="35" y="70" width="650" height="106" rx="8"/><rect x="35" y="192" width="650" height="106" rx="8"/><rect x="35" y="314" width="650" height="106" rx="8"/></g>
+<g fill="#11665f" text-anchor="middle"><text x="140" y="116" font-size="34">~50 K</text><text x="140" y="148" font-size="17">Peak temperature</text><text x="140" y="238" font-size="34">1.63</text><text x="140" y="270" font-size="17">Grüneisen parameter</text><text x="140" y="360" font-size="34">70–80%</text><text x="140" y="392" font-size="17">Increase at 300 K</text></g>
+<g stroke="#d8e2e1"><path d="M248 90 V156 M248 212 V278 M248 334 V400"/></g>
+<g font-size="21" font-weight="bold"><text x="275" y="111">Low thermal conductivity</text><text x="275" y="233">Lattice anharmonicity</text><text x="275" y="355">Aging changes heat transport</text></g>
+<g font-size="18" fill="#566568"><text x="275" y="143">Weak temperature dependence above peak</text><text x="275" y="265">From thermal expansion and heat capacity</text><text x="275" y="387">Aged samples conduct more heat</text></g>
+<text x="360" y="457" text-anchor="middle" font-size="16" fill="#566568">Study summary · J. Mater. Chem. A (2024)</text>
+</g></svg>

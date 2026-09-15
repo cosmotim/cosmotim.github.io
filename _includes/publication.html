@@ -1,6 +1,7 @@
 <article class="publication">
   <div class="publication-meta">{{ include.paper.journal }} <span>· {{ include.paper.date }}</span></div>
   <h3>{{ include.paper.title }}</h3>
+  {% if include.summary and include.paper.summary %}<p class="publication-summary">{{ include.paper.summary }}</p>{% endif %}
   {% if include.full %}<div class="authors">{{ include.paper.authors | markdownify }}</div>{% endif %}
   <div class="button-row">{% if include.paper.doi %}<a class="button button-small" href="{{ include.paper.doi }}" aria-label="DOI: {{ include.paper.title | escape }}">DOI <span aria-hidden="true">↗</span></a>{% endif %}{% if include.paper.url %}<a class="button button-small" href="{{ include.paper.url | escape }}" aria-label="Read dissertation: {{ include.paper.title | escape }}">Read dissertation <span aria-hidden="true">↗</span></a>{% endif %}{% if include.paper.cover %}<a class="text-link" href="{{ include.paper.cover }}">Journal front cover <span aria-hidden="true">↗</span></a>{% endif %}</div>
 </article>
