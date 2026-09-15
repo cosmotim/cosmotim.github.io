@@ -33,4 +33,4 @@ home: true
   {% include media.html %}
 </section>
 <section class="home-section documents-strip" aria-labelledby="documents-heading"><p class="eyebrow">Documents</p><h2 id="documents-heading">Background, in brief or in full</h2>{% include documents.html %}</section>
-<section class="contact-panel" aria-labelledby="contact-heading"><div><p class="eyebrow">Contact</p><h2 id="contact-heading">Let’s connect.</h2><p>Interested in thermal transport, solid electrolytes, or a research collaboration?</p></div><a class="button button-primary" href="mailto:ywang00149@gmail.com">Email Yitian <span aria-hidden="true">↗</span></a></section>
+<section class="contact-panel" aria-labelledby="contact-heading"><div><p class="eyebrow">Contact</p><h2 id="contact-heading">Let’s connect.</h2><p>Interested in thermal transport, solid electrolytes, or a research collaboration?</p></div><div class="button-row"><a class="button button-primary" href="https://www.linkedin.com/in/tim-wang-yitian/">LinkedIn <span aria-hidden="true">↗</span></a><a class="button" href="https://github.com/cosmotim">GitHub <span aria-hidden="true">↗</span></a></div></section>
