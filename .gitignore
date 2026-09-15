@@ -12,6 +12,6 @@
 *.nav
 *.snm
 *.vrb
-
+.vscode/
 # macOS
 .DS_Store
