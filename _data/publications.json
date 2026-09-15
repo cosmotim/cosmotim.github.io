@@ -82,11 +82,14 @@
     "cover": null,
     "selected": true,
     "summary": "Thermal conductivity, expansion, and heat-capacity measurements reveal strong lattice anharmonicity in polycrystalline LLZTO. We also find that aging increases thermal conductivity at room temperature, highlighting how changes in a solid electrolyte can affect battery heat management.",
-    "figure": "/assets/images/publications/garnet-thermal-properties.svg",
-    "figure_alt": "Study summary: conductivity peaks near 50 K, a Grüneisen parameter of 1.63 at 300 K, and 70–80 percent higher conductivity in aged samples at 300 K.",
-    "figure_caption": "Summary diagram based on reported measurements; not a reproduced paper figure.",
-    "figure_width": 720,
-    "figure_height": 480
+    "figure": "/assets/images/publications/JMCA-image.png",
+    "figure_alt": "Electron micrograph of aged LLZTO and a plot comparing thermal conductivity of aged and pristine LLZTO from low temperature to 300 K. Aged LLZTO shows higher thermal conductivity.",
+    "figure_caption": "Author-provided graphic: aging increases the thermal conductivity of LLZTO. Wang et al., J. Mater. Chem. A 12, 18248–18257 (2024). © Royal Society of Chemistry 2024.",
+    "figure_width": 1815,
+    "figure_height": 945,
+    "figure_original": "/assets/images/publications/JMCA-image.png",
+    "figure_original_label": "Original PNG",
+    "figure_wide": true
   },
   {
     "title": "Size-dependent magnon thermal transport in a nanostructured quantum magnet",
