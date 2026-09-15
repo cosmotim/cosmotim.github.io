@@ -18,11 +18,13 @@
     "cover": null,
     "selected": true,
     "summary": "How do solid electrolytes carry heat, and what limits their thermal conductivity? This review connects evidence across oxides, sulfides, and halides, examining lattice dynamics, diffuson transport, and the effects of disorder, porosity, and aging on battery thermal management.",
-    "figure": "/assets/images/publications/electrolyte-thermal-transport.svg",
-    "figure_alt": "Conceptual overview connecting solid electrolyte families, lattice dynamics, and material structure with heat transport.",
-    "figure_caption": "Conceptual overview based on the review; not a reproduced paper figure.",
-    "figure_width": 720,
-    "figure_height": 480
+    "figure": "/assets/images/publications/review-toc.webp",
+    "figure_alt": "Overview of thermal transport in solid electrolytes, relating intrinsic lattice dynamics, extrinsic material effects, and the relationship between thermal and ionic transport.",
+    "figure_caption": "Graphical overview supplied by the author: mechanisms and material factors governing thermal transport in solid electrolytes.",
+    "figure_width": 2000,
+    "figure_height": 1500,
+    "figure_original": "/assets/images/publications/Review%20TOC.tiff",
+    "figure_original_label": "Original TIFF"
   },
   {
     "title": "Low Thermal Conductivity and Lattice Anharmonicity of NaSICON-type Solid Electrolyte Na₃Zr₂Si₂PO₁₂",
@@ -51,13 +53,16 @@
     "cover": null,
     "selected": true,
     "summary": "Why does a crystalline garnet electrolyte conduct heat like a glass? Combining single-crystal growth, neutron scattering, and calculations, we connect low thermal conductivity to optical phonon modes and strong anharmonicity. A two-channel model captures contributions from propagating phonons and diffusons.",
-    "figure": "/assets/images/publications/prx-energy-2025.png",
-    "figure_alt": "Published graphical summary showing LLZTO thermal conductivity and modeled propagon and diffuson contributions, with a crystal structure and sample photograph.",
-    "figure_caption": "Published graphical summary. Wang et al., PRX Energy 4, 033004 (2025).",
+    "figure": "/assets/images/publications/prx-figure-1.webp",
+    "figure_alt": "LLZTO crystal structure, grown single crystals, elemental maps, microscopy and diffraction images, and temperature-dependent thermal conductivity of single-crystal and polycrystalline samples.",
+    "figure_caption": "Figure 1 supplied by the author: LLZTO structure, sample characterization, and thermal conductivity. Wang et al., PRX Energy 4, 033004 (2025).",
     "figure_license": "CC BY 4.0",
     "figure_license_url": "https://creativecommons.org/licenses/by/4.0/",
-    "figure_width": 200,
-    "figure_height": 200
+    "figure_width": 2000,
+    "figure_height": 1055,
+    "figure_original": "/assets/images/publications/PRX%20Figure1.pdf",
+    "figure_original_label": "Original PDF",
+    "figure_wide": true
   },
   {
     "title": "Enhanced magnon thermal transport in yttrium-doped spin ladder compounds Sr₁₄₋ₓYₓCu₂₄O₄₁",

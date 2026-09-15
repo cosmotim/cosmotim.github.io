@@ -1,9 +1,9 @@
-<div class="publication-feature">
+<div class="publication-feature{% if include.paper.figure_wide %} publication-feature-wide{% endif %}">
   <figure>
     <a class="publication-figure-link" href="{{ include.paper.figure | relative_url }}" aria-label="View figure: {{ include.paper.title | escape }}">
-      <img src="{{ include.paper.figure | relative_url }}" alt="{{ include.paper.figure_alt | escape }}" width="{{ include.paper.figure_width }}" height="{{ include.paper.figure_height }}" loading="lazy"{% if include.paper.journal == 'PRX Energy' %} class="compact-figure"{% endif %}>
+      <img src="{{ include.paper.figure | relative_url }}" alt="{{ include.paper.figure_alt | escape }}" width="{{ include.paper.figure_width }}" height="{{ include.paper.figure_height }}" loading="lazy">
     </a>
-    <figcaption>{{ include.paper.figure_caption }} <a href="{{ include.paper.doi }}">Source</a>{% if include.paper.figure_license %} · <a href="{{ include.paper.figure_license_url }}">{{ include.paper.figure_license }}</a>{% endif %}</figcaption>
+    <figcaption>{{ include.paper.figure_caption }} <a href="{{ include.paper.doi }}">Source</a>{% if include.paper.figure_license %} · <a href="{{ include.paper.figure_license_url }}">{{ include.paper.figure_license }}</a>{% endif %}{% if include.paper.figure_original %} · <a href="{{ include.paper.figure_original | relative_url }}" download>{{ include.paper.figure_original_label }}</a>{% endif %}</figcaption>
   </figure>
   <div>{% include publication.html paper=include.paper full=true summary=true %}</div>
 </div>

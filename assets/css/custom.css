@@ -71,7 +71,7 @@ nav a:hover, nav a[aria-current='page'] { color: var(--accent); text-decoration:
 .publication-feature figure { margin: 0; min-width: 0; }
 .publication-figure-link { display: flex; align-items: center; justify-content: center; min-height: 240px; background: var(--surface); border: 1px solid var(--line); border-radius: 5px; overflow: hidden; }
 .publication-figure-link img { display: block; width: 100%; height: auto; }
-.publication-figure-link .compact-figure { width: 200px; max-width: 100%; margin-block: 1rem; }
+.publication-feature-wide { grid-template-columns: minmax(0, 1fr); }
 .publication-feature figcaption { color: var(--muted); font-size: .8rem; line-height: 1.6; margin-top: .75rem; }
 .publication-feature .publication { padding: 0; border: 0; }
 .publication-summary { color: var(--ink); }
