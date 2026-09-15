@@ -1,0 +1,6 @@
+<article class="publication">
+  <div class="publication-meta">{{ include.paper.journal }} <span>· {{ include.paper.date }}</span>{% if include.paper.journal == 'Applied Physics Reviews' %}<span class="badge">Review</span>{% endif %}</div>
+  <h3>{{ include.paper.title }}</h3>
+  {% if include.full %}<div class="authors">{{ include.paper.authors | markdownify }}</div>{% endif %}
+  <div class="button-row">{% if include.paper.doi %}<a class="button button-small" href="{{ include.paper.doi }}" aria-label="DOI: {{ include.paper.title | escape }}">DOI <span aria-hidden="true">↗</span></a>{% endif %}{% if include.paper.cover %}<a class="text-link" href="{{ include.paper.cover }}">Journal front cover <span aria-hidden="true">↗</span></a>{% endif %}</div>
+</article>

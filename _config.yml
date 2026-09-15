@@ -1,2 +1,21 @@
-theme: jekyll-theme-minimal
-title: Yitian Wang's homepage
+title: Yitian Wang
+description: Thermal transport, lattice dynamics, and solid-state ionic conductors. Postdoctoral Fellow at The University of Texas at Austin.
+url: "https://cosmotim.github.io"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CV_Latex/WebsiteLink.md
+  - vendor
+include:
+  - CV_Latex/Curriculum_Vitae_YitianWang.pdf
+  - CV_Latex/Resume_Battery_General.pdf
+  - CV_Latex/Resume_Semiconductor_General.pdf

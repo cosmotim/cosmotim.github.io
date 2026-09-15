@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Thermal Transport and Lattice Dynamics in Solid Electrolytes",
+    "doi": null,
+    "journal": "Ph.D. Dissertation, University of California, Riverside",
+    "date": "2026",
+    "authors": "**Wang, Y.**",
+    "cover": null,
+    "selected": false
+  },
+  {
+    "title": "Thermal transport mechanisms in electrolytes for all-solid-state batteries",
+    "doi": "https://doi.org/10.1063/5.0318328",
+    "journal": "Applied Physics Reviews",
+    "date": "Sep 2026",
+    "authors": "**Wang, Y.**, Wang, H., & Chen, X.",
+    "cover": null,
+    "selected": true
+  },
+  {
+    "title": "Low Thermal Conductivity and Lattice Anharmonicity of NaSICON-type Solid Electrolyte Na₃Zr₂Si₂PO₁₂",
+    "doi": "https://doi.org/10.1007/s42864-025-00357-6",
+    "journal": "Tungsten",
+    "date": "Nov 2025",
+    "authors": "**Wang, Y.**, Jia, Q., Li, S., Shi, L., Li, Y., & Chen, X.",
+    "cover": null,
+    "selected": false
+  },
+  {
+    "title": "Glass-like thermal transport in polycrystalline perovskite lithium-ion conductor Li₃/₈Sr₇/₁₆Hf₁/₄Ta₃/₄O₃",
+    "doi": "https://doi.org/10.1039/D5CC04693A",
+    "journal": "Chemical Communications",
+    "date": "Sep 2025",
+    "authors": "**Wang, Y.**, Jia, Q., Li, S., Shi, L., Li, Y., & Chen, X.",
+    "cover": "https://doi.org/10.1039/D5CC90366A",
+    "selected": false
+  },
+  {
+    "title": "Origin of intrinsically low thermal conductivity in a garnet-type solid electrolyte: Linking lattice and ionic dynamics with thermal transport",
+    "doi": "https://doi.org/10.1103/6wj2-kzhh",
+    "journal": "PRX Energy",
+    "date": "Jul 2025",
+    "authors": "**Wang, Y.**, Su, Y., Carrete, J., Zhang, H., Wu, N., Li, Y., Li, H., He, J., Xu, Y., Guo, S., Cai, Q., Abernathy, D. L., Williams, T., Kravchyk, K. V., Kovalenko, M. V., Madsen, G. K. H., Li, C., & Chen, X.",
+    "cover": null,
+    "selected": true
+  },
+  {
+    "title": "Enhanced magnon thermal transport in yttrium-doped spin ladder compounds Sr₁₄₋ₓYₓCu₂₄O₄₁",
+    "doi": "https://doi.org/10.1063/5.0214897",
+    "journal": "Journal of Applied Physics",
+    "date": "Jul 2024",
+    "authors": "Li, S., Guo, S., **Wang, Y.**, Li, H., Xu, Y., Carta, V., Zhou, J., & Chen, X.",
+    "cover": null,
+    "selected": false
+  },
+  {
+    "title": "Thermal properties and lattice anharmonicity of Li-ion conducting garnet solid electrolyte Li₆.₅La₃Zr₁.₅Ta₀.₅O₁₂",
+    "doi": "https://doi.org/10.1039/D4TA02264E",
+    "journal": "Journal of Materials Chemistry A",
+    "date": "Jun 2024",
+    "authors": "**Wang, Y.**, Li, S., Wu, N., Jia, Q., Hoke, T., Shi, L., Li, Y., & Chen, X.",
+    "cover": null,
+    "selected": true
+  },
+  {
+    "title": "Size-dependent magnon thermal transport in a nanostructured quantum magnet",
+    "doi": "https://doi.org/10.1016/j.xcrp.2024.101879",
+    "journal": "Cell Reports Physical Science",
+    "date": "Mar 2024",
+    "authors": "Guo, S., Li, H., Bai, X., **Wang, Y.**, Li, S., Dunin-Borkowski, R. E., Zhou, J., & Chen, X.",
+    "cover": null,
+    "selected": false
+  },
+  {
+    "title": "Crystal structure and thermoelectric properties of layered van der Waals semimetal ZrTiSe₄",
+    "doi": "https://doi.org/10.1021/acs.chemmater.2c02155",
+    "journal": "Chemistry of Materials",
+    "date": "Sep 2022",
+    "authors": "Xu, Y., Barani, Z., Xiao, P., Sudhindra, S., **Wang, Y.**, Rezaie, A. A., Carta, V., Bozhilov, K. N., Luong, D., Fokwa, B. P. T., Kargar, F., Balandin, A. A., & Chen, X.",
+    "cover": null,
+    "selected": false
+  },
+  {
+    "title": "Single crystal growth and electrochemical studies of garnet-type fast Li-ion conductors",
+    "doi": "https://doi.org/10.1007/s42864-022-00176-z",
+    "journal": "Tungsten",
+    "date": "Sep 2022",
+    "authors": "**Wang, Y.**, & Chen, X.",
+    "cover": null,
+    "selected": false
+  }
+]
