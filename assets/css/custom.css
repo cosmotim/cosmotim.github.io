@@ -69,6 +69,10 @@ nav a:hover, nav a[aria-current='page'] { color: var(--accent); text-decoration:
 .authors strong { color: var(--ink); }
 .document-buttons { margin-block: 1.5rem; }
 .document-buttons .button span { font-size: .75rem; letter-spacing: .03em; }
+.additional-document { margin-block: 2rem; padding-block: 1rem; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.additional-document summary { cursor: pointer; color: var(--accent); padding-block: .5rem; }
+.additional-document summary:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+.additional-document[open] summary { margin-bottom: .75rem; }
 .contact-panel { display: flex; align-items: center; justify-content: space-between; gap: 2rem; background: var(--surface); padding: 2.5rem; border-left: 3px solid var(--accent); margin: 1rem 0 4rem; }
 .contact-panel h2 { margin-bottom: .6rem; }
 .contact-panel p:last-child { margin: 0; max-width: 35rem; color: var(--muted); }
