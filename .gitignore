@@ -13,5 +13,6 @@
 *.snm
 *.vrb
 .vscode/
+*.code-workspace
 # macOS
 .DS_Store
