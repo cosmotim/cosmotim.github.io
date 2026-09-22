@@ -5,7 +5,7 @@ home: true
 <section class="hero">
   <div>
     <p class="eyebrow">Postdoctoral Fellow · UT Austin</p>
-    <h1>Understanding heat.<br><span>Advancing energy materials.</span></h1>
+    <h1>Understanding heat.<br><span>Advancing materials.</span></h1>
     <p class="lede">I’m Yitian Wang. I study thermal transport and lattice dynamics in functional oxides and solid-state ionic conductors, connecting crystal growth, neutron scattering, and modeling.</p>
     <div class="button-row"><a class="button button-primary" href="{{ '/research/' | relative_url }}">Explore my research <span aria-hidden="true">→</span></a><a class="text-link" href="{{ '/contact/' | relative_url }}">Get in touch <span aria-hidden="true">↗</span></a></div>
   </div>
