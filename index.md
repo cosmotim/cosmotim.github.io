@@ -1,5 +1,5 @@
 ---
-title: Thermal transport & lattice dynamics
+title: Homepage
 home: true
 ---
 <section class="hero">
