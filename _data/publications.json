@@ -75,6 +75,7 @@
   },
   {
     "title": "Thermal properties and lattice anharmonicity of Li-ion conducting garnet solid electrolyte Li₆.₅La₃Zr₁.₅Ta₀.₅O₁₂",
+    "title_html": "Thermal properties and lattice anharmonicity of Li-ion conducting garnet solid electrolyte Li<sub>6.5</sub>La<sub>3</sub>Zr<sub>1.5</sub>Ta<sub>0.5</sub>O<sub>12</sub>",
     "doi": "https://doi.org/10.1039/D4TA02264E",
     "journal": "Journal of Materials Chemistry A",
     "date": "Jun 2024",
@@ -88,8 +89,7 @@
     "figure_width": 1815,
     "figure_height": 945,
     "figure_original": "/assets/images/publications/JMCA-image.png",
-    "figure_original_label": "Original PNG",
-    "figure_wide": true
+    "figure_original_label": "Original PNG"
   },
   {
     "title": "Size-dependent magnon thermal transport in a nanostructured quantum magnet",
